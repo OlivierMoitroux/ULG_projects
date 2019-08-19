@@ -1,0 +1,51 @@
+n_matériel (int), état (str), local (str)
+1,Vide,S5
+2,Endommage,A2
+3,Vide,S6
+4,A nettoyer,A6
+5,Endommage,L1
+6,Impeccable,S3
+7,Endommage,S3
+8,Impeccable,A5
+9,Impeccable,L2
+10,Vide,A2
+11,A nettoyer,S2
+12,Endommage,A4
+13,A nettoyer,B6
+14,Endommage,A1
+15,Impeccable,B2
+16,Impeccable,S6
+17,Impeccable,L4
+18,Vide,B2
+19,A nettoyer,L0
+20,A nettoyer,B3
+21,A nettoyer,S6
+22,A nettoyer,S6
+23,A nettoyer,S0
+24,A nettoyer,S1
+25,Impeccable,B1
+26,A nettoyer,A2
+27,Vide,S1
+28,Impeccable,B2
+29,A nettoyer,A2
+30,Vide,A2
+31,Vide,L0
+32,Vide,B1
+33,Vide,S6
+34,Endommage,B2
+35,Endommage,A1
+36,Vide,L6
+37,Vide,B0
+38,A nettoyer,A3
+39,A nettoyer,S3
+40,Impeccable,S7
+41,Impeccable,S5
+42,Endommage,L7
+43,Endommage,L3
+44,Vide,A7
+45,Vide,L1
+46,Impeccable,B0
+47,Impeccable,A1
+48,Impeccable,L3
+49,A nettoyer,A4
+50,Vide,B0

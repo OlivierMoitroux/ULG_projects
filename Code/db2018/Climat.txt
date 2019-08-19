@@ -1,0 +1,59 @@
+nom_latin (str), nom_climat (str)
+Loxodonta africana,Savane
+Loxodonta africana,Forêt Tropicale
+Elephas maximus,Forêt Tropicale
+Haliaeetus leucocephalus,Plaine
+Haliaeetus leucocephalus,Forêt
+Haliaeetus leucocephalus,Montagne
+Lynx rufus,Forêt
+Lynx rufus,Montagne
+Rangifer tarandus,Plaine
+Rangifer tarandus,Forêt
+Pan troglodytes,Forêt Tropicale
+Canis dingo,Savane
+Canis dingo,Plaine
+Canis dingo,Forêt
+Cervus canadensis,Plaine
+Cervus canadensis,Forêt
+Aptenodytes forsteri,Banquise
+Lutra lutra,Plaine
+Lutra lutra,Forêt
+Ailuropoda melanoleuca,Montagne
+Ailuropoda melanoleuca,Forêt Tropicale
+Giraffa camelopardalis,Savane
+Urocyon cinereoargenteus,Plaine
+Urocyon cinereoargenteus,Forêt
+Canis lupus,Forêt
+Eunectes murinus,Forêt Tropicale
+Eunectes murinus,Forêt
+Ardea cinerea,Plaine
+Ardea cinerea,Forêt
+Hippopotamus amphibius,Savane
+Hippopotamus amphibius,Plaine
+Equus caballus,Plaine
+Panthera pardus,Savane
+Panthera pardus,Forêt Tropicale
+Panthera leo,Savane
+Panthera leo,Forêt Tropicale
+Pongo pygmaeus,Forêt Tropicale
+Struthio camelus,Plaine
+Struthio camelus,Savane
+Falco peregrinus,Plaine
+Falco peregrinus,Forêt
+Falco peregrinus,Montagne
+Ursus maritimus,Banquise
+Ailurus fulgens,Montagne
+Ailurus fulgens,Forêt
+Ailurus fulgens,Forêt Tropicale
+Panthera uncia,Montagne
+Panthera uncia,Forêt
+Panthera uncia,Banquise
+Bubo scandiacus,Montagne
+Bubo scandiacus,Forêt
+Bubo scandiacus,Banquise
+Prunella modularis,Plaine
+Prunella modularis,Forêt
+Panthera tigris,Savane
+Panthera tigris,Forêt Tropicale
+Felis silvestris,Plaine
+Felis silvestris,Forêt

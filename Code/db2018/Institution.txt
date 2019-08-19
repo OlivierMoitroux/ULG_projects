@@ -1,0 +1,11 @@
+nom (str), rue (str), code_postal (str), pays (str)
+Pairi Daiza,Domaine de Cambron,7940,Belgique
+Zoo d'Anvers,Koningin Astridplein,2018,Belgique
+Parc de Merlet,Rue de la Place,74310,France
+Parc National des Virunga,Boulevard Kanya Muhanga,Goma,République Démocratique du Congo
+Parc National du Nord-Est du Groenland,H.J. Rinkip Aqqutaa,3900,Groenland
+Bifengxia Panda Base,Yaan,625000,Chine
+Institut Zoologique de Stockholm,Oenenstrasse,22200,Suède
+Parc Naturel de Bolivie,Strada de la Montana,420,La Paz
+Réserve du Texas,M Jordan Street,210,Etats-Unis
+Australia Natural Reserve,Kangaroo Street,2000,Sydney

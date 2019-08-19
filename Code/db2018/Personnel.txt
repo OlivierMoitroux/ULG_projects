@@ -1,0 +1,31 @@
+nom (str), prenom (str), n_registre (int)
+1,Onzia,Dedryck
+2,Deloose,Ellen
+3,Depoitre,Thibaut
+4,Zeler,Romelu
+5,Lemey,Koen
+6,Boyata,Dries
+7,Mirallas,Laurent
+8,Mertens,Davina
+9,Vertonghen,Leander
+10,Dembélé,Ellen
+11,Boyata,Leander
+12,Ciman,Radja
+13,Mertens,Thorgan
+14,Lemey,Thibaut
+15,Evrard,Aline
+16,Philtjens,Elke
+17,Van Gorp,Julie
+18,Lukaku,Eden
+19,Jaques,Dries
+20,Van Wynendaele,Julie
+21,Philtjens,Youri
+22,Deloose,Kevin
+23,Lukaku,Kevin
+24,Biesmans,Christian
+25,Dembélé,Julie
+26,De Bruyne,Julie
+27,Hazard,Romelu
+28,Lemey,Koen
+29,Kabasele,Matz
+30,Ciman,Radja

@@ -1,0 +1,31 @@
+nom_latin (str), nom_courant (str), regime_alimentaire (str)
+Loxodonta africana,Elephant d'Afrique,Herbivore
+Elephas maximus,Elephant d'Asie,Herbivore
+Haliaeetus leucocephalus,Aigle,Carnivore
+Lynx rufus,Lynx,Carnivore
+Rangifer tarandus,Caribou,Herbivore
+Pan troglodytes,Chimpanzé,Omnivore
+Canis dingo,Dingo,Omnivore
+Cervus canadensis,Elan,Herbivore
+Aptenodytes forsteri,Pingouin Empereur,Carnivore
+Lutra lutra,Loutres,Carnivore
+Ailuropoda melanoleuca,Panda Geant,Herbivore
+Giraffa camelopardalis,Girafe,Herbivore
+Urocyon cinereoargenteus,Renard,Carnivore
+Canis lupus,Loup,Carnivore:
+Eunectes murinus,Anaconda,Carnivore
+Ardea cinerea,Heron Cendre,Carnivore
+Hippopotamus amphibius,Hippopotame,Carnivore
+Equus caballus,Cheval,Herbivore
+Panthera pardus,Leopard,Carnivore
+Panthera leo,Lion,Carnivore
+Pongo pygmaeus,Orang Outan,Herbivore
+Struthio camelus,Autruche,Herbivore
+Falco peregrinus,Faucon Pélerin,Carnivore
+Ursus maritimus,Ours Polaire,Carnivore
+Ailurus fulgens,Panda Roux,Herbivore
+Panthera uncia,Leopard des Neiges,Carnivore
+Bubo scandiacus,Harfang des Neiges,Carnivore
+Prunella modularis,Moineau,Herbivore
+Panthera tigris,Tigre,Carnivore
+Felis silvestris,Chat Sauvage,Carnivore

@@ -1,0 +1,2199 @@
+n_intervention (int), date (str), description (str), n_registre (int), nom_latin (str), n_puce (int)
+1,1/1/2017,soins divers,2,Elephas maximus,38
+2,1/1/2017,platre,3,Struthio camelus,13
+3,2/1/2017,platre,1,Pan troglodytes,14
+4,2/1/2017,operation,12,Panthera pardus,15
+5,2/1/2017,soins divers,7,Pan troglodytes,27
+6,2/1/2017,operation,10,Struthio camelus,14
+7,2/1/2017,mise en quarantaine,25,Lynx rufus,4
+8,2/1/2017,mise en quarantaine,2,Ursus maritimus,4
+9,2/1/2017,platre,28,Giraffa camelopardalis,19
+10,2/1/2017,soins divers,4,Pongo pygmaeus,35
+11,2/1/2017,platre,3,Urocyon cinereoargenteus,17
+12,2/1/2017,platre,12,Lynx rufus,20
+13,2/1/2017,mise en quarantaine,30,Urocyon cinereoargenteus,30
+14,2/1/2017,operation,30,Giraffa camelopardalis,29
+15,2/1/2017,operation,30,Elephas maximus,22
+16,2/1/2017,vaccin,3,Ailuropoda melanoleuca,4
+17,2/1/2017,platre,7,Ardea cinerea,35
+18,2/1/2017,operation,26,Bubo scandiacus,18
+19,2/1/2017,platre,4,Pongo pygmaeus,22
+20,2/1/2017,soins divers,28,Hippopotamus amphibius,14
+21,2/1/2017,soins divers,4,Urocyon cinereoargenteus,4
+22,2/1/2017,soins divers,1,Equus caballus,4
+23,2/1/2017,soins divers,25,Cervus canadensis,2
+24,2/1/2017,mise en quarantaine,4,Lutra lutra,20
+25,2/1/2017,soins divers,27,Eunectes murinus,1
+26,2/1/2017,vaccin,26,Urocyon cinereoargenteus,20
+27,2/1/2017,vaccin,12,Lutra lutra,16
+28,2/1/2017,platre,12,Ailurus fulgens,31
+29,2/1/2017,operation,2,Aptenodytes forsteri,39
+30,2/1/2017,soins divers,10,Bubo scandiacus,9
+31,3/1/2017,mise en quarantaine,26,Aptenodytes forsteri,18
+32,4/1/2017,platre,7,Lutra lutra,15
+33,4/1/2017,operation,1,Felis silvestris,12
+34,4/1/2017,soins divers,11,Equus caballus,23
+35,4/1/2017,operation,10,Ailurus fulgens,15
+36,4/1/2017,soins divers,28,Ursus maritimus,15
+37,4/1/2017,operation,26,Cervus canadensis,26
+38,4/1/2017,vaccin,10,Lynx rufus,23
+39,5/1/2017,operation,25,Ursus maritimus,32
+40,5/1/2017,mise en quarantaine,2,Rangifer tarandus,27
+41,5/1/2017,soins divers,3,Canis lupus,19
+42,5/1/2017,vaccin,25,Equus caballus,26
+43,5/1/2017,vaccin,25,Aptenodytes forsteri,20
+44,5/1/2017,soins divers,4,Pongo pygmaeus,10
+45,5/1/2017,operation,12,Struthio camelus,21
+46,5/1/2017,soins divers,2,Ailurus fulgens,40
+47,5/1/2017,operation,4,Ursus maritimus,12
+48,5/1/2017,mise en quarantaine,25,Haliaeetus leucocephalus,7
+49,5/1/2017,vaccin,12,Lynx rufus,23
+50,5/1/2017,vaccin,4,Ardea cinerea,35
+51,6/1/2017,operation,19,Panthera uncia,1
+52,6/1/2017,platre,29,Ursus maritimus,15
+53,6/1/2017,soins divers,12,Panthera tigris,23
+54,6/1/2017,soins divers,7,Pongo pygmaeus,32
+55,6/1/2017,vaccin,3,Loxodonta africana,16
+56,6/1/2017,vaccin,28,Panthera pardus,18
+57,6/1/2017,vaccin,26,Panthera pardus,5
+58,6/1/2017,platre,2,Eunectes murinus,14
+59,6/1/2017,platre,19,Panthera leo,26
+60,6/1/2017,platre,30,Lutra lutra,23
+61,6/1/2017,operation,26,Urocyon cinereoargenteus,12
+62,7/1/2017,operation,10,Pongo pygmaeus,35
+63,8/1/2017,soins divers,19,Lutra lutra,24
+64,8/1/2017,soins divers,16,Panthera leo,7
+65,8/1/2017,operation,7,Loxodonta africana,22
+66,9/1/2017,mise en quarantaine,16,Ardea cinerea,30
+67,9/1/2017,platre,19,Bubo scandiacus,33
+68,10/1/2017,operation,27,Hippopotamus amphibius,1
+69,10/1/2017,platre,10,Falco peregrinus,19
+70,11/1/2017,soins divers,27,Cervus canadensis,8
+71,11/1/2017,platre,4,Bubo scandiacus,36
+72,11/1/2017,operation,26,Falco peregrinus,14
+73,11/1/2017,soins divers,3,Struthio camelus,13
+74,11/1/2017,mise en quarantaine,1,Equus caballus,29
+75,12/1/2017,mise en quarantaine,12,Loxodonta africana,15
+76,12/1/2017,mise en quarantaine,3,Lutra lutra,14
+77,12/1/2017,vaccin,11,Bubo scandiacus,17
+78,13/1/2017,soins divers,17,Bubo scandiacus,3
+79,13/1/2017,vaccin,12,Eunectes murinus,17
+80,13/1/2017,soins divers,3,Giraffa camelopardalis,14
+81,14/1/2017,vaccin,3,Ailurus fulgens,1
+82,14/1/2017,soins divers,17,Struthio camelus,21
+83,14/1/2017,soins divers,29,Aptenodytes forsteri,32
+84,14/1/2017,platre,28,Bubo scandiacus,1
+85,14/1/2017,mise en quarantaine,17,Aptenodytes forsteri,7
+86,14/1/2017,soins divers,25,Panthera leo,42
+87,14/1/2017,platre,4,Falco peregrinus,24
+88,14/1/2017,operation,27,Elephas maximus,16
+89,14/1/2017,mise en quarantaine,7,Rangifer tarandus,6
+90,15/1/2017,vaccin,16,Panthera leo,19
+91,16/1/2017,mise en quarantaine,30,Pongo pygmaeus,13
+92,16/1/2017,platre,30,Lynx rufus,8
+93,16/1/2017,soins divers,4,Ardea cinerea,34
+94,16/1/2017,mise en quarantaine,2,Pan troglodytes,32
+95,16/1/2017,soins divers,25,Prunella modularis,4
+96,16/1/2017,mise en quarantaine,26,Ailuropoda melanoleuca,25
+97,16/1/2017,platre,11,Prunella modularis,7
+98,16/1/2017,platre,11,Pongo pygmaeus,37
+99,17/1/2017,mise en quarantaine,28,Panthera leo,37
+100,17/1/2017,soins divers,26,Haliaeetus leucocephalus,3
+101,17/1/2017,platre,11,Pongo pygmaeus,30
+102,17/1/2017,platre,27,Canis dingo,32
+103,18/1/2017,platre,27,Equus caballus,11
+104,18/1/2017,platre,26,Falco peregrinus,6
+105,19/1/2017,mise en quarantaine,11,Aptenodytes forsteri,36
+106,19/1/2017,operation,11,Falco peregrinus,15
+107,19/1/2017,soins divers,11,Panthera leo,44
+108,19/1/2017,operation,16,Panthera uncia,3
+109,19/1/2017,platre,26,Pongo pygmaeus,14
+110,19/1/2017,soins divers,11,Giraffa camelopardalis,19
+111,19/1/2017,mise en quarantaine,29,Rangifer tarandus,11
+112,19/1/2017,mise en quarantaine,25,Felis silvestris,18
+113,19/1/2017,mise en quarantaine,7,Lutra lutra,3
+114,19/1/2017,vaccin,25,Giraffa camelopardalis,33
+115,20/1/2017,operation,27,Urocyon cinereoargenteus,20
+116,21/1/2017,mise en quarantaine,11,Loxodonta africana,1
+117,21/1/2017,operation,28,Rangifer tarandus,24
+118,21/1/2017,vaccin,17,Cervus canadensis,24
+119,21/1/2017,operation,12,Hippopotamus amphibius,1
+120,21/1/2017,mise en quarantaine,17,Ardea cinerea,26
+121,21/1/2017,mise en quarantaine,7,Canis lupus,2
+122,21/1/2017,operation,1,Pan troglodytes,15
+123,22/1/2017,platre,17,Bubo scandiacus,11
+124,22/1/2017,mise en quarantaine,19,Hippopotamus amphibius,2
+125,22/1/2017,vaccin,17,Panthera leo,32
+126,22/1/2017,mise en quarantaine,10,Falco peregrinus,8
+127,22/1/2017,soins divers,29,Ailurus fulgens,12
+128,23/1/2017,vaccin,19,Aptenodytes forsteri,32
+129,23/1/2017,vaccin,27,Giraffa camelopardalis,2
+130,23/1/2017,soins divers,25,Ardea cinerea,5
+131,23/1/2017,soins divers,1,Panthera uncia,1
+132,23/1/2017,mise en quarantaine,19,Elephas maximus,37
+133,23/1/2017,soins divers,4,Pongo pygmaeus,35
+134,23/1/2017,operation,10,Ailurus fulgens,1
+135,24/1/2017,vaccin,16,Struthio camelus,39
+136,24/1/2017,vaccin,3,Loxodonta africana,13
+137,24/1/2017,platre,12,Elephas maximus,11
+138,25/1/2017,soins divers,26,Ailurus fulgens,26
+139,25/1/2017,soins divers,11,Ailurus fulgens,19
+140,25/1/2017,mise en quarantaine,10,Cervus canadensis,24
+141,25/1/2017,soins divers,4,Eunectes murinus,30
+142,25/1/2017,mise en quarantaine,19,Ardea cinerea,17
+143,25/1/2017,mise en quarantaine,12,Pan troglodytes,27
+144,25/1/2017,platre,12,Struthio camelus,20
+145,26/1/2017,mise en quarantaine,12,Panthera pardus,8
+146,26/1/2017,mise en quarantaine,2,Cervus canadensis,18
+147,26/1/2017,operation,17,Canis lupus,1
+148,26/1/2017,platre,16,Ailuropoda melanoleuca,8
+149,27/1/2017,vaccin,10,Panthera uncia,8
+150,27/1/2017,vaccin,12,Ursus maritimus,14
+151,27/1/2017,soins divers,2,Hippopotamus amphibius,2
+152,27/1/2017,mise en quarantaine,16,Falco peregrinus,4
+153,27/1/2017,soins divers,4,Ailurus fulgens,27
+154,27/1/2017,soins divers,29,Aptenodytes forsteri,39
+155,27/1/2017,operation,25,Panthera tigris,17
+156,27/1/2017,platre,17,Pongo pygmaeus,37
+157,27/1/2017,vaccin,2,Equus caballus,26
+158,27/1/2017,operation,4,Bubo scandiacus,2
+159,27/1/2017,platre,10,Ardea cinerea,20
+160,27/1/2017,vaccin,25,Falco peregrinus,28
+161,27/1/2017,mise en quarantaine,4,Equus caballus,16
+162,27/1/2017,soins divers,26,Panthera pardus,8
+163,27/1/2017,mise en quarantaine,3,Loxodonta africana,5
+164,27/1/2017,mise en quarantaine,28,Canis lupus,8
+165,27/1/2017,soins divers,2,Haliaeetus leucocephalus,15
+166,27/1/2017,vaccin,16,Struthio camelus,16
+167,27/1/2017,vaccin,3,Cervus canadensis,19
+168,27/1/2017,platre,1,Urocyon cinereoargenteus,30
+169,27/1/2017,mise en quarantaine,12,Ailurus fulgens,38
+170,28/1/2017,mise en quarantaine,16,Aptenodytes forsteri,40
+171,28/1/2017,mise en quarantaine,16,Equus caballus,36
+172,28/1/2017,mise en quarantaine,3,Felis silvestris,9
+173,28/1/2017,vaccin,16,Panthera uncia,32
+174,28/1/2017,soins divers,29,Panthera uncia,9
+175,28/1/2017,mise en quarantaine,25,Ailuropoda melanoleuca,14
+176,1/2/2017,soins divers,27,Struthio camelus,10
+177,1/2/2017,soins divers,28,Urocyon cinereoargenteus,30
+178,1/2/2017,platre,10,Rangifer tarandus,7
+179,1/2/2017,vaccin,12,Pan troglodytes,16
+180,1/2/2017,vaccin,1,Lutra lutra,3
+181,2/2/2017,platre,12,Urocyon cinereoargenteus,14
+182,2/2/2017,soins divers,28,Ailurus fulgens,38
+183,2/2/2017,vaccin,30,Giraffa camelopardalis,1
+184,3/2/2017,mise en quarantaine,11,Pan troglodytes,39
+185,3/2/2017,mise en quarantaine,30,Giraffa camelopardalis,1
+186,3/2/2017,operation,12,Prunella modularis,4
+187,3/2/2017,operation,1,Lutra lutra,25
+188,3/2/2017,soins divers,19,Falco peregrinus,25
+189,3/2/2017,mise en quarantaine,19,Haliaeetus leucocephalus,2
+190,3/2/2017,operation,30,Cervus canadensis,8
+191,3/2/2017,soins divers,4,Ailurus fulgens,35
+192,3/2/2017,soins divers,10,Lynx rufus,22
+193,3/2/2017,operation,16,Rangifer tarandus,15
+194,4/2/2017,platre,2,Panthera uncia,12
+195,4/2/2017,mise en quarantaine,29,Struthio camelus,3
+196,4/2/2017,platre,4,Panthera uncia,37
+197,4/2/2017,mise en quarantaine,4,Loxodonta africana,17
+198,4/2/2017,mise en quarantaine,29,Equus caballus,3
+199,4/2/2017,soins divers,4,Panthera leo,15
+200,4/2/2017,platre,4,Giraffa camelopardalis,8
+201,4/2/2017,platre,25,Panthera tigris,16
+202,4/2/2017,operation,12,Canis lupus,10
+203,4/2/2017,operation,4,Panthera uncia,3
+204,5/2/2017,mise en quarantaine,25,Panthera tigris,11
+205,5/2/2017,mise en quarantaine,25,Panthera leo,18
+206,5/2/2017,mise en quarantaine,16,Prunella modularis,6
+207,5/2/2017,platre,25,Elephas maximus,18
+208,5/2/2017,platre,25,Haliaeetus leucocephalus,3
+209,5/2/2017,operation,16,Haliaeetus leucocephalus,3
+210,5/2/2017,operation,4,Struthio camelus,9
+211,5/2/2017,vaccin,3,Felis silvestris,21
+212,5/2/2017,soins divers,4,Ailuropoda melanoleuca,20
+213,5/2/2017,mise en quarantaine,3,Canis dingo,9
+214,5/2/2017,platre,7,Eunectes murinus,27
+215,5/2/2017,operation,11,Canis lupus,19
+216,5/2/2017,vaccin,1,Felis silvestris,12
+217,5/2/2017,platre,27,Pan troglodytes,17
+218,5/2/2017,platre,17,Falco peregrinus,28
+219,5/2/2017,mise en quarantaine,28,Aptenodytes forsteri,7
+220,5/2/2017,soins divers,29,Haliaeetus leucocephalus,6
+221,6/2/2017,vaccin,17,Lynx rufus,20
+222,6/2/2017,operation,4,Canis lupus,27
+223,6/2/2017,vaccin,28,Ardea cinerea,21
+224,6/2/2017,soins divers,12,Panthera uncia,23
+225,6/2/2017,vaccin,3,Elephas maximus,31
+226,6/2/2017,operation,26,Panthera leo,2
+227,7/2/2017,vaccin,4,Eunectes murinus,25
+228,7/2/2017,soins divers,27,Panthera tigris,15
+229,7/2/2017,mise en quarantaine,27,Panthera pardus,5
+230,8/2/2017,vaccin,29,Urocyon cinereoargenteus,13
+231,9/2/2017,operation,1,Pan troglodytes,37
+232,9/2/2017,operation,30,Equus caballus,14
+233,10/2/2017,vaccin,16,Elephas maximus,8
+234,10/2/2017,operation,17,Ardea cinerea,9
+235,10/2/2017,soins divers,4,Panthera tigris,10
+236,10/2/2017,operation,29,Panthera tigris,9
+237,10/2/2017,mise en quarantaine,11,Struthio camelus,20
+238,10/2/2017,vaccin,4,Ailurus fulgens,33
+239,10/2/2017,platre,10,Lutra lutra,17
+240,10/2/2017,platre,2,Elephas maximus,6
+241,10/2/2017,platre,29,Bubo scandiacus,33
+242,10/2/2017,mise en quarantaine,12,Bubo scandiacus,35
+243,10/2/2017,soins divers,16,Ardea cinerea,29
+244,10/2/2017,operation,28,Felis silvestris,20
+245,10/2/2017,soins divers,17,Struthio camelus,10
+246,10/2/2017,platre,1,Prunella modularis,4
+247,10/2/2017,vaccin,26,Pan troglodytes,7
+248,10/2/2017,platre,7,Canis lupus,17
+249,10/2/2017,operation,1,Aptenodytes forsteri,38
+250,10/2/2017,vaccin,26,Cervus canadensis,6
+251,10/2/2017,platre,16,Prunella modularis,3
+252,10/2/2017,operation,16,Cervus canadensis,6
+253,10/2/2017,soins divers,4,Pan troglodytes,26
+254,10/2/2017,soins divers,2,Elephas maximus,5
+255,10/2/2017,vaccin,29,Panthera leo,37
+256,10/2/2017,vaccin,26,Aptenodytes forsteri,37
+257,10/2/2017,operation,26,Hippopotamus amphibius,25
+258,10/2/2017,soins divers,17,Ailurus fulgens,10
+259,10/2/2017,operation,25,Prunella modularis,4
+260,10/2/2017,soins divers,2,Prunella modularis,11
+261,10/2/2017,vaccin,11,Elephas maximus,28
+262,10/2/2017,operation,10,Bubo scandiacus,24
+263,11/2/2017,vaccin,28,Hippopotamus amphibius,13
+264,12/2/2017,mise en quarantaine,1,Loxodonta africana,20
+265,12/2/2017,operation,28,Ailurus fulgens,36
+266,12/2/2017,soins divers,29,Panthera uncia,13
+267,13/2/2017,mise en quarantaine,19,Lutra lutra,12
+268,13/2/2017,platre,7,Canis lupus,27
+269,13/2/2017,vaccin,19,Aptenodytes forsteri,18
+270,13/2/2017,mise en quarantaine,7,Bubo scandiacus,35
+271,13/2/2017,operation,27,Equus caballus,30
+272,13/2/2017,platre,11,Ailurus fulgens,36
+273,13/2/2017,operation,29,Lynx rufus,8
+274,13/2/2017,platre,10,Struthio camelus,11
+275,14/2/2017,operation,25,Panthera tigris,13
+276,15/2/2017,soins divers,30,Ailurus fulgens,2
+277,15/2/2017,vaccin,17,Lutra lutra,25
+278,15/2/2017,mise en quarantaine,12,Rangifer tarandus,1
+279,15/2/2017,vaccin,4,Urocyon cinereoargenteus,3
+280,15/2/2017,platre,30,Aptenodytes forsteri,8
+281,15/2/2017,vaccin,25,Ailurus fulgens,17
+282,15/2/2017,vaccin,16,Struthio camelus,43
+283,15/2/2017,vaccin,2,Haliaeetus leucocephalus,12
+284,16/2/2017,platre,30,Haliaeetus leucocephalus,14
+285,16/2/2017,operation,28,Giraffa camelopardalis,7
+286,16/2/2017,mise en quarantaine,11,Ailuropoda melanoleuca,20
+287,17/2/2017,vaccin,28,Rangifer tarandus,22
+288,17/2/2017,mise en quarantaine,27,Panthera leo,13
+289,17/2/2017,vaccin,3,Pongo pygmaeus,1
+290,17/2/2017,mise en quarantaine,1,Eunectes murinus,15
+291,17/2/2017,soins divers,11,Aptenodytes forsteri,38
+292,17/2/2017,platre,7,Bubo scandiacus,29
+293,17/2/2017,mise en quarantaine,17,Bubo scandiacus,29
+294,17/2/2017,soins divers,3,Lynx rufus,16
+295,17/2/2017,vaccin,10,Hippopotamus amphibius,34
+296,17/2/2017,mise en quarantaine,30,Lutra lutra,21
+297,17/2/2017,vaccin,7,Falco peregrinus,8
+298,17/2/2017,mise en quarantaine,1,Ailurus fulgens,36
+299,17/2/2017,soins divers,25,Lynx rufus,19
+300,17/2/2017,vaccin,17,Ailuropoda melanoleuca,13
+301,17/2/2017,platre,4,Eunectes murinus,27
+302,17/2/2017,soins divers,16,Lynx rufus,20
+303,17/2/2017,vaccin,4,Lutra lutra,9
+304,17/2/2017,soins divers,12,Urocyon cinereoargenteus,26
+305,17/2/2017,platre,28,Urocyon cinereoargenteus,24
+306,17/2/2017,mise en quarantaine,17,Urocyon cinereoargenteus,31
+307,17/2/2017,vaccin,25,Bubo scandiacus,18
+308,17/2/2017,mise en quarantaine,30,Panthera leo,38
+309,17/2/2017,soins divers,30,Pan troglodytes,30
+310,17/2/2017,operation,30,Urocyon cinereoargenteus,14
+311,17/2/2017,mise en quarantaine,26,Struthio camelus,34
+312,18/2/2017,operation,1,Panthera leo,34
+313,18/2/2017,operation,1,Canis lupus,17
+314,18/2/2017,platre,19,Lynx rufus,11
+315,18/2/2017,mise en quarantaine,7,Panthera tigris,13
+316,19/2/2017,mise en quarantaine,17,Ailuropoda melanoleuca,19
+317,19/2/2017,operation,11,Eunectes murinus,26
+318,19/2/2017,mise en quarantaine,25,Pan troglodytes,9
+319,20/2/2017,vaccin,27,Panthera leo,27
+320,20/2/2017,mise en quarantaine,29,Pan troglodytes,5
+321,20/2/2017,vaccin,26,Ardea cinerea,8
+322,21/2/2017,operation,29,Panthera tigris,3
+323,21/2/2017,mise en quarantaine,12,Panthera tigris,2
+324,21/2/2017,vaccin,27,Canis lupus,19
+325,21/2/2017,soins divers,28,Giraffa camelopardalis,6
+326,21/2/2017,operation,2,Panthera leo,7
+327,21/2/2017,vaccin,12,Equus caballus,29
+328,21/2/2017,platre,4,Pan troglodytes,7
+329,21/2/2017,operation,29,Bubo scandiacus,31
+330,21/2/2017,vaccin,19,Canis dingo,12
+331,22/2/2017,mise en quarantaine,28,Eunectes murinus,6
+332,22/2/2017,platre,10,Canis dingo,3
+333,22/2/2017,mise en quarantaine,4,Pongo pygmaeus,3
+334,22/2/2017,mise en quarantaine,7,Canis lupus,24
+335,22/2/2017,mise en quarantaine,7,Giraffa camelopardalis,7
+336,22/2/2017,platre,10,Eunectes murinus,27
+337,22/2/2017,vaccin,28,Ailurus fulgens,37
+338,22/2/2017,vaccin,27,Pongo pygmaeus,2
+339,23/2/2017,platre,29,Elephas maximus,34
+340,23/2/2017,vaccin,17,Elephas maximus,17
+341,23/2/2017,operation,17,Hippopotamus amphibius,23
+342,23/2/2017,operation,1,Aptenodytes forsteri,45
+343,23/2/2017,mise en quarantaine,16,Canis dingo,1
+344,23/2/2017,soins divers,12,Ardea cinerea,17
+345,23/2/2017,platre,10,Panthera uncia,23
+346,23/2/2017,platre,2,Falco peregrinus,9
+347,23/2/2017,platre,2,Falco peregrinus,7
+348,24/2/2017,platre,4,Eunectes murinus,15
+349,24/2/2017,operation,27,Panthera tigris,23
+350,25/2/2017,mise en quarantaine,27,Panthera uncia,2
+351,25/2/2017,platre,17,Urocyon cinereoargenteus,3
+352,25/2/2017,mise en quarantaine,28,Ursus maritimus,9
+353,25/2/2017,mise en quarantaine,28,Haliaeetus leucocephalus,27
+354,25/2/2017,vaccin,19,Cervus canadensis,24
+355,26/2/2017,platre,4,Elephas maximus,36
+356,26/2/2017,mise en quarantaine,26,Hippopotamus amphibius,24
+357,26/2/2017,vaccin,11,Panthera leo,19
+358,27/2/2017,soins divers,4,Panthera pardus,4
+359,27/2/2017,platre,12,Falco peregrinus,10
+360,28/2/2017,mise en quarantaine,16,Aptenodytes forsteri,45
+361,28/2/2017,mise en quarantaine,10,Struthio camelus,11
+362,1/3/2017,vaccin,30,Pan troglodytes,34
+363,1/3/2017,vaccin,25,Ursus maritimus,6
+364,1/3/2017,soins divers,12,Hippopotamus amphibius,2
+365,2/3/2017,mise en quarantaine,3,Lutra lutra,27
+366,3/3/2017,soins divers,4,Struthio camelus,1
+367,3/3/2017,mise en quarantaine,17,Haliaeetus leucocephalus,8
+368,3/3/2017,operation,4,Canis dingo,18
+369,3/3/2017,mise en quarantaine,11,Pan troglodytes,27
+370,3/3/2017,vaccin,12,Aptenodytes forsteri,19
+371,4/3/2017,operation,12,Urocyon cinereoargenteus,11
+372,4/3/2017,soins divers,29,Falco peregrinus,15
+373,4/3/2017,platre,2,Rangifer tarandus,3
+374,4/3/2017,soins divers,27,Ailurus fulgens,17
+375,4/3/2017,soins divers,26,Canis lupus,19
+376,4/3/2017,platre,12,Pongo pygmaeus,37
+377,5/3/2017,mise en quarantaine,29,Elephas maximus,15
+378,5/3/2017,soins divers,2,Lynx rufus,9
+379,5/3/2017,soins divers,1,Ailurus fulgens,21
+380,5/3/2017,operation,19,Falco peregrinus,15
+381,5/3/2017,mise en quarantaine,11,Felis silvestris,25
+382,5/3/2017,mise en quarantaine,25,Urocyon cinereoargenteus,20
+383,6/3/2017,soins divers,19,Struthio camelus,36
+384,6/3/2017,vaccin,17,Eunectes murinus,21
+385,6/3/2017,mise en quarantaine,26,Panthera uncia,24
+386,6/3/2017,operation,1,Ardea cinerea,17
+387,6/3/2017,mise en quarantaine,12,Falco peregrinus,28
+388,6/3/2017,platre,25,Pongo pygmaeus,1
+389,6/3/2017,mise en quarantaine,25,Ursus maritimus,18
+390,6/3/2017,vaccin,10,Panthera leo,40
+391,7/3/2017,vaccin,30,Urocyon cinereoargenteus,24
+392,7/3/2017,operation,4,Struthio camelus,24
+393,7/3/2017,mise en quarantaine,11,Eunectes murinus,4
+394,7/3/2017,platre,1,Giraffa camelopardalis,7
+395,7/3/2017,mise en quarantaine,1,Pan troglodytes,23
+396,7/3/2017,platre,26,Struthio camelus,26
+397,7/3/2017,vaccin,4,Urocyon cinereoargenteus,12
+398,7/3/2017,vaccin,16,Ailuropoda melanoleuca,14
+399,7/3/2017,soins divers,30,Urocyon cinereoargenteus,12
+400,7/3/2017,platre,19,Struthio camelus,18
+401,7/3/2017,operation,12,Falco peregrinus,10
+402,7/3/2017,platre,1,Rangifer tarandus,23
+403,7/3/2017,mise en quarantaine,26,Pongo pygmaeus,33
+404,7/3/2017,mise en quarantaine,3,Canis lupus,11
+405,7/3/2017,vaccin,16,Pongo pygmaeus,24
+406,7/3/2017,vaccin,25,Ailurus fulgens,29
+407,7/3/2017,platre,27,Ailurus fulgens,36
+408,8/3/2017,soins divers,16,Ardea cinerea,35
+409,8/3/2017,vaccin,19,Panthera leo,5
+410,8/3/2017,mise en quarantaine,27,Falco peregrinus,24
+411,8/3/2017,soins divers,28,Panthera uncia,4
+412,8/3/2017,mise en quarantaine,2,Giraffa camelopardalis,22
+413,9/3/2017,operation,11,Panthera leo,44
+414,9/3/2017,operation,16,Cervus canadensis,27
+415,9/3/2017,operation,1,Panthera uncia,15
+416,9/3/2017,operation,3,Prunella modularis,9
+417,9/3/2017,operation,2,Bubo scandiacus,33
+418,9/3/2017,mise en quarantaine,16,Pongo pygmaeus,24
+419,9/3/2017,platre,19,Pongo pygmaeus,24
+420,9/3/2017,vaccin,25,Felis silvestris,17
+421,9/3/2017,platre,19,Hippopotamus amphibius,19
+422,9/3/2017,vaccin,27,Pan troglodytes,39
+423,9/3/2017,platre,26,Pongo pygmaeus,8
+424,10/3/2017,operation,12,Ailurus fulgens,20
+425,10/3/2017,soins divers,26,Panthera pardus,5
+426,10/3/2017,soins divers,17,Cervus canadensis,5
+427,10/3/2017,soins divers,1,Lutra lutra,10
+428,10/3/2017,operation,12,Panthera pardus,4
+429,11/3/2017,soins divers,16,Prunella modularis,18
+430,11/3/2017,mise en quarantaine,4,Panthera leo,6
+431,11/3/2017,operation,12,Ursus maritimus,19
+432,11/3/2017,platre,30,Canis dingo,30
+433,11/3/2017,platre,25,Pan troglodytes,3
+434,11/3/2017,vaccin,1,Aptenodytes forsteri,48
+435,12/3/2017,platre,28,Pan troglodytes,39
+436,12/3/2017,operation,10,Loxodonta africana,20
+437,13/3/2017,platre,26,Panthera uncia,3
+438,13/3/2017,platre,25,Struthio camelus,13
+439,14/3/2017,mise en quarantaine,17,Canis lupus,19
+440,14/3/2017,mise en quarantaine,26,Ailurus fulgens,28
+441,14/3/2017,soins divers,11,Canis lupus,22
+442,15/3/2017,mise en quarantaine,4,Elephas maximus,31
+443,15/3/2017,operation,1,Rangifer tarandus,24
+444,15/3/2017,operation,11,Haliaeetus leucocephalus,27
+445,15/3/2017,vaccin,4,Ardea cinerea,36
+446,15/3/2017,vaccin,27,Ailurus fulgens,2
+447,15/3/2017,mise en quarantaine,27,Canis lupus,10
+448,15/3/2017,platre,27,Bubo scandiacus,31
+449,15/3/2017,platre,29,Ursus maritimus,9
+450,15/3/2017,mise en quarantaine,29,Rangifer tarandus,9
+451,15/3/2017,mise en quarantaine,2,Urocyon cinereoargenteus,24
+452,15/3/2017,soins divers,30,Cervus canadensis,28
+453,16/3/2017,soins divers,29,Felis silvestris,22
+454,16/3/2017,mise en quarantaine,25,Bubo scandiacus,4
+455,16/3/2017,mise en quarantaine,19,Panthera tigris,3
+456,16/3/2017,mise en quarantaine,28,Loxodonta africana,17
+457,16/3/2017,vaccin,7,Ardea cinerea,10
+458,16/3/2017,vaccin,7,Eunectes murinus,2
+459,16/3/2017,vaccin,17,Lynx rufus,9
+460,16/3/2017,platre,28,Equus caballus,25
+461,17/3/2017,vaccin,26,Ailurus fulgens,19
+462,17/3/2017,platre,26,Felis silvestris,15
+463,17/3/2017,vaccin,19,Bubo scandiacus,35
+464,17/3/2017,vaccin,12,Falco peregrinus,22
+465,17/3/2017,mise en quarantaine,7,Ursus maritimus,21
+466,18/3/2017,operation,30,Hippopotamus amphibius,17
+467,18/3/2017,soins divers,7,Prunella modularis,3
+468,19/3/2017,operation,12,Ardea cinerea,11
+469,19/3/2017,soins divers,12,Panthera tigris,12
+470,19/3/2017,vaccin,19,Equus caballus,36
+471,19/3/2017,mise en quarantaine,26,Eunectes murinus,15
+472,20/3/2017,operation,19,Canis dingo,4
+473,20/3/2017,operation,19,Panthera uncia,24
+474,20/3/2017,mise en quarantaine,28,Ardea cinerea,41
+475,20/3/2017,soins divers,3,Panthera leo,6
+476,20/3/2017,soins divers,29,Hippopotamus amphibius,9
+477,20/3/2017,soins divers,30,Struthio camelus,25
+478,20/3/2017,platre,28,Urocyon cinereoargenteus,13
+479,21/3/2017,operation,12,Elephas maximus,15
+480,21/3/2017,operation,7,Bubo scandiacus,35
+481,21/3/2017,operation,12,Struthio camelus,7
+482,21/3/2017,vaccin,28,Rangifer tarandus,28
+483,21/3/2017,platre,25,Cervus canadensis,25
+484,21/3/2017,platre,16,Panthera leo,41
+485,21/3/2017,soins divers,7,Pongo pygmaeus,8
+486,21/3/2017,vaccin,25,Panthera leo,27
+487,21/3/2017,vaccin,28,Panthera tigris,20
+488,21/3/2017,mise en quarantaine,4,Cervus canadensis,14
+489,21/3/2017,mise en quarantaine,16,Ardea cinerea,8
+490,22/3/2017,vaccin,26,Ailuropoda melanoleuca,27
+491,23/3/2017,platre,12,Canis dingo,28
+492,24/3/2017,vaccin,10,Falco peregrinus,13
+493,24/3/2017,operation,11,Ailurus fulgens,36
+494,25/3/2017,soins divers,11,Ailurus fulgens,32
+495,26/3/2017,soins divers,19,Eunectes murinus,1
+496,26/3/2017,soins divers,17,Falco peregrinus,26
+497,26/3/2017,vaccin,16,Lynx rufus,2
+498,26/3/2017,soins divers,29,Ardea cinerea,35
+499,26/3/2017,platre,25,Eunectes murinus,7
+500,27/3/2017,mise en quarantaine,17,Falco peregrinus,17
+501,27/3/2017,platre,10,Rangifer tarandus,16
+502,27/3/2017,soins divers,26,Panthera leo,5
+503,28/3/2017,soins divers,28,Panthera leo,41
+504,28/3/2017,vaccin,16,Ursus maritimus,26
+505,28/3/2017,platre,10,Panthera leo,27
+506,28/3/2017,soins divers,30,Panthera uncia,33
+507,28/3/2017,soins divers,1,Bubo scandiacus,35
+508,28/3/2017,operation,16,Ursus maritimus,24
+509,28/3/2017,mise en quarantaine,27,Haliaeetus leucocephalus,14
+510,28/3/2017,mise en quarantaine,25,Aptenodytes forsteri,15
+511,28/3/2017,mise en quarantaine,10,Aptenodytes forsteri,40
+512,28/3/2017,mise en quarantaine,27,Canis lupus,22
+513,1/4/2017,soins divers,16,Cervus canadensis,31
+514,1/4/2017,soins divers,30,Urocyon cinereoargenteus,13
+515,1/4/2017,platre,19,Elephas maximus,22
+516,1/4/2017,vaccin,7,Falco peregrinus,13
+517,2/4/2017,platre,2,Ardea cinerea,20
+518,2/4/2017,soins divers,28,Felis silvestris,16
+519,2/4/2017,operation,12,Canis lupus,19
+520,3/4/2017,mise en quarantaine,2,Ailurus fulgens,36
+521,3/4/2017,operation,25,Pan troglodytes,9
+522,3/4/2017,vaccin,30,Ardea cinerea,40
+523,3/4/2017,platre,10,Bubo scandiacus,1
+524,3/4/2017,vaccin,12,Cervus canadensis,30
+525,3/4/2017,platre,7,Ursus maritimus,15
+526,3/4/2017,mise en quarantaine,4,Struthio camelus,33
+527,3/4/2017,operation,29,Aptenodytes forsteri,47
+528,4/4/2017,operation,2,Prunella modularis,12
+529,4/4/2017,mise en quarantaine,26,Eunectes murinus,12
+530,4/4/2017,operation,29,Urocyon cinereoargenteus,1
+531,4/4/2017,mise en quarantaine,30,Aptenodytes forsteri,6
+532,4/4/2017,vaccin,17,Bubo scandiacus,4
+533,4/4/2017,mise en quarantaine,3,Falco peregrinus,22
+534,4/4/2017,operation,25,Giraffa camelopardalis,29
+535,4/4/2017,mise en quarantaine,26,Panthera leo,2
+536,4/4/2017,operation,2,Panthera leo,15
+537,4/4/2017,mise en quarantaine,29,Hippopotamus amphibius,34
+538,4/4/2017,soins divers,2,Panthera pardus,3
+539,4/4/2017,operation,1,Aptenodytes forsteri,41
+540,4/4/2017,platre,7,Giraffa camelopardalis,18
+541,4/4/2017,vaccin,29,Lutra lutra,14
+542,5/4/2017,operation,2,Rangifer tarandus,1
+543,6/4/2017,mise en quarantaine,30,Pongo pygmaeus,35
+544,6/4/2017,vaccin,25,Struthio camelus,8
+545,6/4/2017,soins divers,29,Panthera uncia,4
+546,6/4/2017,mise en quarantaine,3,Bubo scandiacus,35
+547,6/4/2017,soins divers,1,Felis silvestris,16
+548,6/4/2017,soins divers,1,Panthera uncia,37
+549,7/4/2017,mise en quarantaine,30,Falco peregrinus,20
+550,7/4/2017,vaccin,27,Elephas maximus,29
+551,7/4/2017,soins divers,27,Equus caballus,26
+552,8/4/2017,operation,4,Urocyon cinereoargenteus,11
+553,9/4/2017,mise en quarantaine,27,Equus caballus,36
+554,9/4/2017,vaccin,27,Prunella modularis,24
+555,9/4/2017,vaccin,27,Panthera leo,12
+556,9/4/2017,platre,2,Struthio camelus,11
+557,9/4/2017,vaccin,19,Lutra lutra,7
+558,9/4/2017,platre,27,Rangifer tarandus,4
+559,9/4/2017,soins divers,7,Giraffa camelopardalis,5
+560,9/4/2017,mise en quarantaine,28,Cervus canadensis,14
+561,9/4/2017,mise en quarantaine,30,Pan troglodytes,23
+562,9/4/2017,operation,19,Rangifer tarandus,1
+563,10/4/2017,operation,1,Felis silvestris,10
+564,11/4/2017,vaccin,17,Giraffa camelopardalis,24
+565,11/4/2017,mise en quarantaine,16,Pongo pygmaeus,2
+566,12/4/2017,soins divers,11,Equus caballus,17
+567,12/4/2017,soins divers,29,Elephas maximus,19
+568,12/4/2017,mise en quarantaine,25,Giraffa camelopardalis,24
+569,12/4/2017,operation,1,Canis lupus,21
+570,12/4/2017,platre,19,Aptenodytes forsteri,44
+571,12/4/2017,operation,29,Aptenodytes forsteri,27
+572,12/4/2017,soins divers,17,Panthera pardus,1
+573,12/4/2017,vaccin,7,Aptenodytes forsteri,23
+574,13/4/2017,soins divers,1,Eunectes murinus,11
+575,13/4/2017,operation,28,Rangifer tarandus,12
+576,13/4/2017,mise en quarantaine,10,Canis lupus,11
+577,13/4/2017,soins divers,1,Struthio camelus,22
+578,14/4/2017,soins divers,3,Panthera uncia,29
+579,14/4/2017,operation,1,Lynx rufus,8
+580,14/4/2017,soins divers,2,Ailurus fulgens,33
+581,14/4/2017,soins divers,4,Panthera leo,16
+582,14/4/2017,vaccin,29,Aptenodytes forsteri,25
+583,14/4/2017,platre,1,Elephas maximus,12
+584,14/4/2017,platre,10,Urocyon cinereoargenteus,11
+585,14/4/2017,soins divers,29,Canis lupus,19
+586,14/4/2017,platre,7,Falco peregrinus,15
+587,14/4/2017,mise en quarantaine,26,Giraffa camelopardalis,6
+588,15/4/2017,vaccin,28,Equus caballus,34
+589,15/4/2017,soins divers,17,Canis dingo,26
+590,15/4/2017,vaccin,28,Ailurus fulgens,18
+591,15/4/2017,operation,19,Ardea cinerea,42
+592,15/4/2017,mise en quarantaine,16,Ardea cinerea,40
+593,15/4/2017,platre,26,Haliaeetus leucocephalus,26
+594,15/4/2017,vaccin,28,Pan troglodytes,13
+595,15/4/2017,operation,26,Pan troglodytes,8
+596,15/4/2017,vaccin,7,Panthera leo,7
+597,15/4/2017,operation,1,Struthio camelus,1
+598,15/4/2017,vaccin,27,Pongo pygmaeus,11
+599,16/4/2017,soins divers,25,Hippopotamus amphibius,16
+600,16/4/2017,platre,28,Lutra lutra,12
+601,16/4/2017,soins divers,28,Ailurus fulgens,9
+602,16/4/2017,platre,30,Ardea cinerea,40
+603,16/4/2017,platre,12,Felis silvestris,4
+604,16/4/2017,vaccin,17,Elephas maximus,2
+605,16/4/2017,soins divers,29,Pan troglodytes,1
+606,16/4/2017,vaccin,17,Pan troglodytes,20
+607,16/4/2017,platre,12,Urocyon cinereoargenteus,13
+608,16/4/2017,mise en quarantaine,2,Ailurus fulgens,36
+609,16/4/2017,soins divers,12,Lutra lutra,20
+610,16/4/2017,operation,27,Felis silvestris,20
+611,16/4/2017,operation,25,Ursus maritimus,32
+612,17/4/2017,platre,30,Ursus maritimus,15
+613,17/4/2017,mise en quarantaine,7,Haliaeetus leucocephalus,8
+614,17/4/2017,vaccin,3,Canis lupus,13
+615,17/4/2017,mise en quarantaine,29,Canis lupus,27
+616,17/4/2017,soins divers,16,Urocyon cinereoargenteus,21
+617,17/4/2017,vaccin,27,Aptenodytes forsteri,15
+618,18/4/2017,operation,10,Urocyon cinereoargenteus,31
+619,18/4/2017,soins divers,10,Panthera leo,18
+620,18/4/2017,vaccin,28,Ailurus fulgens,33
+621,18/4/2017,soins divers,1,Ursus maritimus,4
+622,18/4/2017,vaccin,29,Struthio camelus,40
+623,18/4/2017,platre,7,Equus caballus,27
+624,18/4/2017,soins divers,29,Pan troglodytes,38
+625,18/4/2017,vaccin,28,Ailurus fulgens,38
+626,18/4/2017,platre,11,Eunectes murinus,8
+627,18/4/2017,platre,25,Falco peregrinus,23
+628,19/4/2017,mise en quarantaine,4,Ailurus fulgens,8
+629,19/4/2017,soins divers,27,Aptenodytes forsteri,28
+630,19/4/2017,operation,26,Urocyon cinereoargenteus,11
+631,19/4/2017,mise en quarantaine,11,Aptenodytes forsteri,36
+632,19/4/2017,operation,19,Pan troglodytes,39
+633,20/4/2017,platre,25,Lutra lutra,11
+634,20/4/2017,soins divers,25,Falco peregrinus,15
+635,20/4/2017,soins divers,29,Cervus canadensis,12
+636,20/4/2017,vaccin,26,Urocyon cinereoargenteus,24
+637,20/4/2017,mise en quarantaine,26,Canis dingo,14
+638,20/4/2017,mise en quarantaine,19,Panthera pardus,3
+639,20/4/2017,vaccin,7,Bubo scandiacus,14
+640,20/4/2017,platre,17,Panthera tigris,15
+641,20/4/2017,mise en quarantaine,27,Equus caballus,4
+642,20/4/2017,operation,25,Urocyon cinereoargenteus,10
+643,21/4/2017,mise en quarantaine,7,Hippopotamus amphibius,21
+644,21/4/2017,platre,17,Eunectes murinus,1
+645,21/4/2017,vaccin,4,Elephas maximus,19
+646,21/4/2017,operation,1,Ardea cinerea,41
+647,21/4/2017,platre,10,Ailurus fulgens,33
+648,21/4/2017,vaccin,27,Equus caballus,24
+649,21/4/2017,vaccin,11,Prunella modularis,14
+650,21/4/2017,platre,3,Lutra lutra,24
+651,21/4/2017,vaccin,12,Pongo pygmaeus,32
+652,21/4/2017,soins divers,30,Ailuropoda melanoleuca,26
+653,22/4/2017,operation,3,Elephas maximus,33
+654,22/4/2017,operation,16,Hippopotamus amphibius,13
+655,22/4/2017,soins divers,27,Rangifer tarandus,28
+656,22/4/2017,platre,17,Elephas maximus,16
+657,22/4/2017,vaccin,12,Equus caballus,16
+658,22/4/2017,soins divers,1,Falco peregrinus,18
+659,22/4/2017,vaccin,16,Struthio camelus,19
+660,22/4/2017,platre,19,Hippopotamus amphibius,34
+661,22/4/2017,operation,4,Lynx rufus,15
+662,22/4/2017,soins divers,2,Giraffa camelopardalis,15
+663,22/4/2017,operation,2,Urocyon cinereoargenteus,11
+664,22/4/2017,operation,10,Rangifer tarandus,28
+665,22/4/2017,operation,11,Panthera leo,26
+666,22/4/2017,soins divers,1,Aptenodytes forsteri,24
+667,22/4/2017,soins divers,2,Ursus maritimus,26
+668,22/4/2017,mise en quarantaine,1,Panthera pardus,13
+669,22/4/2017,soins divers,12,Ailurus fulgens,26
+670,22/4/2017,mise en quarantaine,27,Falco peregrinus,31
+671,22/4/2017,mise en quarantaine,2,Equus caballus,14
+672,22/4/2017,mise en quarantaine,26,Ardea cinerea,34
+673,22/4/2017,vaccin,2,Rangifer tarandus,1
+674,22/4/2017,soins divers,30,Equus caballus,31
+675,23/4/2017,platre,2,Panthera pardus,17
+676,23/4/2017,mise en quarantaine,3,Lutra lutra,1
+677,23/4/2017,vaccin,4,Panthera tigris,19
+678,23/4/2017,soins divers,29,Ursus maritimus,20
+679,24/4/2017,platre,12,Canis lupus,27
+680,24/4/2017,vaccin,1,Urocyon cinereoargenteus,13
+681,24/4/2017,vaccin,2,Ailurus fulgens,31
+682,24/4/2017,vaccin,29,Panthera tigris,21
+683,24/4/2017,soins divers,3,Prunella modularis,4
+684,24/4/2017,vaccin,17,Ailuropoda melanoleuca,19
+685,24/4/2017,vaccin,30,Falco peregrinus,5
+686,24/4/2017,vaccin,3,Aptenodytes forsteri,11
+687,24/4/2017,operation,10,Elephas maximus,26
+688,25/4/2017,soins divers,29,Cervus canadensis,10
+689,25/4/2017,mise en quarantaine,26,Ailuropoda melanoleuca,19
+690,25/4/2017,operation,3,Struthio camelus,13
+691,25/4/2017,vaccin,4,Bubo scandiacus,14
+692,25/4/2017,platre,2,Struthio camelus,13
+693,25/4/2017,mise en quarantaine,10,Bubo scandiacus,9
+694,25/4/2017,operation,16,Ailurus fulgens,14
+695,25/4/2017,vaccin,30,Haliaeetus leucocephalus,19
+696,25/4/2017,vaccin,19,Hippopotamus amphibius,15
+697,25/4/2017,mise en quarantaine,19,Panthera leo,32
+698,25/4/2017,mise en quarantaine,3,Pan troglodytes,20
+699,26/4/2017,mise en quarantaine,3,Ardea cinerea,35
+700,27/4/2017,soins divers,27,Haliaeetus leucocephalus,29
+701,27/4/2017,mise en quarantaine,16,Pongo pygmaeus,23
+702,27/4/2017,operation,28,Bubo scandiacus,35
+703,27/4/2017,operation,16,Panthera tigris,17
+704,27/4/2017,soins divers,17,Elephas maximus,20
+705,28/4/2017,mise en quarantaine,2,Aptenodytes forsteri,43
+706,28/4/2017,operation,25,Pongo pygmaeus,4
+707,28/4/2017,platre,26,Urocyon cinereoargenteus,28
+708,28/4/2017,platre,17,Struthio camelus,41
+709,28/4/2017,mise en quarantaine,12,Canis dingo,26
+710,28/4/2017,mise en quarantaine,25,Equus caballus,36
+711,28/4/2017,soins divers,30,Aptenodytes forsteri,35
+712,1/5/2017,platre,2,Eunectes murinus,5
+713,1/5/2017,platre,29,Elephas maximus,37
+714,2/5/2017,platre,25,Ailuropoda melanoleuca,21
+715,3/5/2017,platre,10,Ailuropoda melanoleuca,11
+716,3/5/2017,vaccin,28,Ardea cinerea,11
+717,3/5/2017,vaccin,19,Hippopotamus amphibius,21
+718,3/5/2017,soins divers,3,Struthio camelus,44
+719,3/5/2017,vaccin,25,Prunella modularis,3
+720,3/5/2017,soins divers,17,Ardea cinerea,33
+721,3/5/2017,soins divers,27,Rangifer tarandus,19
+722,4/5/2017,vaccin,1,Urocyon cinereoargenteus,24
+723,4/5/2017,vaccin,10,Urocyon cinereoargenteus,29
+724,5/5/2017,mise en quarantaine,19,Haliaeetus leucocephalus,3
+725,5/5/2017,vaccin,11,Panthera pardus,2
+726,6/5/2017,operation,25,Ardea cinerea,30
+727,6/5/2017,vaccin,27,Rangifer tarandus,24
+728,6/5/2017,soins divers,25,Cervus canadensis,6
+729,6/5/2017,mise en quarantaine,3,Falco peregrinus,5
+730,7/5/2017,soins divers,7,Ailurus fulgens,24
+731,8/5/2017,mise en quarantaine,19,Ailurus fulgens,32
+732,8/5/2017,mise en quarantaine,26,Giraffa camelopardalis,21
+733,8/5/2017,operation,3,Haliaeetus leucocephalus,11
+734,8/5/2017,vaccin,30,Lynx rufus,4
+735,8/5/2017,soins divers,26,Cervus canadensis,9
+736,8/5/2017,mise en quarantaine,16,Ursus maritimus,9
+737,9/5/2017,operation,29,Ardea cinerea,39
+738,9/5/2017,platre,27,Ursus maritimus,11
+739,9/5/2017,vaccin,3,Equus caballus,24
+740,9/5/2017,vaccin,4,Elephas maximus,21
+741,9/5/2017,soins divers,4,Urocyon cinereoargenteus,24
+742,9/5/2017,vaccin,1,Struthio camelus,38
+743,9/5/2017,vaccin,28,Ardea cinerea,11
+744,9/5/2017,soins divers,16,Lynx rufus,17
+745,9/5/2017,soins divers,11,Ailuropoda melanoleuca,11
+746,9/5/2017,platre,16,Lynx rufus,21
+747,9/5/2017,platre,26,Panthera tigris,12
+748,9/5/2017,vaccin,1,Haliaeetus leucocephalus,21
+749,9/5/2017,vaccin,12,Prunella modularis,19
+750,10/5/2017,mise en quarantaine,26,Ailurus fulgens,2
+751,10/5/2017,mise en quarantaine,1,Haliaeetus leucocephalus,13
+752,11/5/2017,operation,30,Struthio camelus,14
+753,12/5/2017,vaccin,12,Eunectes murinus,28
+754,12/5/2017,vaccin,10,Ailurus fulgens,26
+755,12/5/2017,mise en quarantaine,26,Elephas maximus,39
+756,12/5/2017,mise en quarantaine,19,Bubo scandiacus,22
+757,12/5/2017,operation,19,Bubo scandiacus,19
+758,12/5/2017,platre,17,Felis silvestris,31
+759,12/5/2017,mise en quarantaine,4,Pongo pygmaeus,11
+760,12/5/2017,vaccin,25,Lynx rufus,11
+761,12/5/2017,operation,28,Canis lupus,7
+762,12/5/2017,mise en quarantaine,27,Pan troglodytes,20
+763,12/5/2017,vaccin,26,Panthera uncia,4
+764,12/5/2017,operation,4,Elephas maximus,20
+765,13/5/2017,mise en quarantaine,25,Aptenodytes forsteri,15
+766,13/5/2017,soins divers,10,Ailuropoda melanoleuca,4
+767,13/5/2017,mise en quarantaine,7,Pan troglodytes,3
+768,13/5/2017,operation,19,Panthera pardus,16
+769,13/5/2017,operation,27,Bubo scandiacus,32
+770,13/5/2017,operation,12,Equus caballus,32
+771,13/5/2017,vaccin,12,Felis silvestris,6
+772,13/5/2017,operation,19,Canis dingo,2
+773,13/5/2017,platre,7,Prunella modularis,20
+774,13/5/2017,mise en quarantaine,26,Panthera pardus,17
+775,13/5/2017,mise en quarantaine,30,Canis lupus,8
+776,13/5/2017,soins divers,26,Falco peregrinus,12
+777,13/5/2017,platre,26,Pan troglodytes,15
+778,13/5/2017,platre,11,Falco peregrinus,2
+779,13/5/2017,soins divers,4,Ailuropoda melanoleuca,3
+780,13/5/2017,mise en quarantaine,4,Aptenodytes forsteri,10
+781,13/5/2017,platre,19,Falco peregrinus,20
+782,14/5/2017,mise en quarantaine,4,Ailurus fulgens,18
+783,14/5/2017,soins divers,10,Panthera leo,22
+784,14/5/2017,vaccin,25,Canis dingo,10
+785,14/5/2017,operation,30,Panthera uncia,9
+786,14/5/2017,platre,10,Aptenodytes forsteri,13
+787,14/5/2017,vaccin,30,Loxodonta africana,19
+788,14/5/2017,mise en quarantaine,27,Lutra lutra,17
+789,14/5/2017,vaccin,28,Elephas maximus,19
+790,14/5/2017,operation,4,Ailurus fulgens,39
+791,14/5/2017,vaccin,12,Cervus canadensis,29
+792,14/5/2017,vaccin,16,Pan troglodytes,13
+793,14/5/2017,platre,4,Panthera uncia,37
+794,14/5/2017,platre,1,Ardea cinerea,27
+795,14/5/2017,operation,1,Cervus canadensis,12
+796,14/5/2017,soins divers,29,Pan troglodytes,35
+797,14/5/2017,vaccin,25,Pongo pygmaeus,19
+798,15/5/2017,mise en quarantaine,30,Prunella modularis,16
+799,15/5/2017,soins divers,27,Ailurus fulgens,33
+800,15/5/2017,vaccin,7,Haliaeetus leucocephalus,3
+801,15/5/2017,soins divers,17,Panthera uncia,28
+802,15/5/2017,platre,19,Falco peregrinus,22
+803,15/5/2017,vaccin,11,Aptenodytes forsteri,45
+804,15/5/2017,soins divers,4,Elephas maximus,10
+805,15/5/2017,mise en quarantaine,30,Hippopotamus amphibius,14
+806,15/5/2017,vaccin,25,Loxodonta africana,16
+807,16/5/2017,vaccin,7,Ailurus fulgens,33
+808,16/5/2017,soins divers,10,Urocyon cinereoargenteus,10
+809,16/5/2017,vaccin,19,Haliaeetus leucocephalus,7
+810,16/5/2017,soins divers,7,Felis silvestris,4
+811,16/5/2017,soins divers,16,Ardea cinerea,32
+812,16/5/2017,mise en quarantaine,2,Struthio camelus,10
+813,16/5/2017,mise en quarantaine,28,Giraffa camelopardalis,8
+814,16/5/2017,mise en quarantaine,17,Bubo scandiacus,28
+815,16/5/2017,platre,19,Rangifer tarandus,1
+816,17/5/2017,platre,27,Bubo scandiacus,21
+817,17/5/2017,platre,26,Panthera pardus,7
+818,17/5/2017,operation,28,Pan troglodytes,35
+819,18/5/2017,soins divers,11,Pan troglodytes,23
+820,18/5/2017,soins divers,29,Felis silvestris,33
+821,19/5/2017,operation,1,Ardea cinerea,11
+822,19/5/2017,platre,16,Falco peregrinus,15
+823,20/5/2017,operation,17,Rangifer tarandus,11
+824,20/5/2017,operation,7,Panthera uncia,36
+825,20/5/2017,mise en quarantaine,29,Giraffa camelopardalis,1
+826,21/5/2017,platre,17,Bubo scandiacus,1
+827,21/5/2017,mise en quarantaine,1,Rangifer tarandus,25
+828,21/5/2017,soins divers,19,Rangifer tarandus,23
+829,21/5/2017,platre,3,Panthera uncia,29
+830,21/5/2017,operation,7,Urocyon cinereoargenteus,11
+831,21/5/2017,platre,30,Giraffa camelopardalis,10
+832,21/5/2017,vaccin,4,Pan troglodytes,20
+833,21/5/2017,platre,10,Rangifer tarandus,1
+834,21/5/2017,platre,30,Aptenodytes forsteri,39
+835,21/5/2017,soins divers,17,Bubo scandiacus,11
+836,21/5/2017,operation,7,Haliaeetus leucocephalus,18
+837,22/5/2017,soins divers,30,Panthera uncia,15
+838,22/5/2017,platre,10,Lutra lutra,25
+839,22/5/2017,soins divers,10,Panthera pardus,7
+840,23/5/2017,mise en quarantaine,1,Ursus maritimus,21
+841,24/5/2017,soins divers,2,Prunella modularis,4
+842,25/5/2017,operation,30,Panthera leo,41
+843,25/5/2017,vaccin,12,Aptenodytes forsteri,13
+844,25/5/2017,operation,4,Eunectes murinus,8
+845,25/5/2017,operation,19,Eunectes murinus,15
+846,25/5/2017,vaccin,4,Canis dingo,8
+847,25/5/2017,soins divers,25,Urocyon cinereoargenteus,17
+848,25/5/2017,operation,17,Urocyon cinereoargenteus,13
+849,25/5/2017,operation,1,Ailuropoda melanoleuca,23
+850,26/5/2017,soins divers,4,Ardea cinerea,21
+851,26/5/2017,operation,2,Panthera pardus,4
+852,26/5/2017,soins divers,19,Pongo pygmaeus,25
+853,26/5/2017,vaccin,25,Loxodonta africana,2
+854,26/5/2017,platre,27,Elephas maximus,5
+855,26/5/2017,mise en quarantaine,16,Ursus maritimus,16
+856,27/5/2017,platre,3,Panthera tigris,23
+857,27/5/2017,soins divers,7,Struthio camelus,19
+858,27/5/2017,mise en quarantaine,28,Bubo scandiacus,10
+859,27/5/2017,operation,3,Struthio camelus,6
+860,27/5/2017,mise en quarantaine,28,Loxodonta africana,15
+861,27/5/2017,soins divers,12,Elephas maximus,9
+862,27/5/2017,vaccin,4,Eunectes murinus,10
+863,27/5/2017,platre,19,Canis dingo,28
+864,27/5/2017,mise en quarantaine,26,Giraffa camelopardalis,6
+865,27/5/2017,mise en quarantaine,1,Ursus maritimus,4
+866,27/5/2017,platre,4,Felis silvestris,17
+867,27/5/2017,vaccin,29,Urocyon cinereoargenteus,24
+868,28/5/2017,vaccin,10,Struthio camelus,25
+869,28/5/2017,platre,11,Equus caballus,34
+870,28/5/2017,vaccin,30,Bubo scandiacus,28
+871,28/5/2017,mise en quarantaine,16,Pongo pygmaeus,1
+872,1/6/2017,vaccin,4,Loxodonta africana,1
+873,1/6/2017,mise en quarantaine,7,Falco peregrinus,14
+874,1/6/2017,vaccin,19,Pongo pygmaeus,20
+875,1/6/2017,operation,28,Giraffa camelopardalis,28
+876,2/6/2017,vaccin,11,Cervus canadensis,8
+877,2/6/2017,mise en quarantaine,7,Ailurus fulgens,37
+878,2/6/2017,mise en quarantaine,17,Pan troglodytes,23
+879,2/6/2017,vaccin,1,Canis lupus,1
+880,2/6/2017,platre,17,Ardea cinerea,2
+881,3/6/2017,vaccin,17,Bubo scandiacus,15
+882,3/6/2017,soins divers,1,Struthio camelus,4
+883,3/6/2017,mise en quarantaine,27,Ardea cinerea,5
+884,4/6/2017,soins divers,19,Hippopotamus amphibius,20
+885,4/6/2017,vaccin,17,Ailurus fulgens,27
+886,4/6/2017,soins divers,10,Equus caballus,23
+887,4/6/2017,operation,17,Lynx rufus,12
+888,4/6/2017,platre,17,Equus caballus,35
+889,4/6/2017,soins divers,16,Panthera leo,20
+890,5/6/2017,operation,26,Panthera leo,30
+891,5/6/2017,mise en quarantaine,29,Pongo pygmaeus,1
+892,5/6/2017,vaccin,3,Rangifer tarandus,1
+893,6/6/2017,vaccin,17,Giraffa camelopardalis,9
+894,7/6/2017,soins divers,26,Bubo scandiacus,17
+895,7/6/2017,platre,10,Ardea cinerea,22
+896,8/6/2017,platre,2,Elephas maximus,13
+897,8/6/2017,vaccin,4,Aptenodytes forsteri,36
+898,8/6/2017,platre,16,Pan troglodytes,9
+899,9/6/2017,operation,10,Struthio camelus,31
+900,9/6/2017,mise en quarantaine,26,Ursus maritimus,1
+901,9/6/2017,platre,25,Ailurus fulgens,20
+902,10/6/2017,vaccin,1,Ailurus fulgens,15
+903,10/6/2017,platre,3,Struthio camelus,13
+904,10/6/2017,vaccin,26,Rangifer tarandus,27
+905,10/6/2017,vaccin,19,Aptenodytes forsteri,43
+906,10/6/2017,platre,30,Hippopotamus amphibius,9
+907,11/6/2017,platre,10,Canis dingo,11
+908,11/6/2017,operation,25,Panthera tigris,8
+909,11/6/2017,vaccin,2,Hippopotamus amphibius,15
+910,11/6/2017,platre,10,Pongo pygmaeus,16
+911,11/6/2017,operation,28,Haliaeetus leucocephalus,17
+912,11/6/2017,vaccin,7,Elephas maximus,12
+913,11/6/2017,platre,11,Aptenodytes forsteri,10
+914,11/6/2017,operation,19,Loxodonta africana,4
+915,12/6/2017,operation,4,Prunella modularis,9
+916,12/6/2017,soins divers,2,Canis dingo,28
+917,12/6/2017,soins divers,25,Equus caballus,33
+918,12/6/2017,vaccin,19,Urocyon cinereoargenteus,22
+919,12/6/2017,mise en quarantaine,7,Urocyon cinereoargenteus,27
+920,12/6/2017,platre,12,Struthio camelus,6
+921,13/6/2017,mise en quarantaine,11,Ardea cinerea,20
+922,13/6/2017,operation,1,Panthera uncia,10
+923,13/6/2017,operation,12,Prunella modularis,7
+924,13/6/2017,vaccin,3,Cervus canadensis,30
+925,13/6/2017,soins divers,12,Eunectes murinus,16
+926,13/6/2017,platre,1,Urocyon cinereoargenteus,9
+927,13/6/2017,operation,19,Elephas maximus,22
+928,13/6/2017,mise en quarantaine,26,Panthera uncia,32
+929,13/6/2017,vaccin,1,Panthera pardus,15
+930,13/6/2017,vaccin,28,Rangifer tarandus,26
+931,13/6/2017,platre,26,Rangifer tarandus,7
+932,13/6/2017,mise en quarantaine,11,Ursus maritimus,22
+933,13/6/2017,vaccin,10,Ailurus fulgens,38
+934,13/6/2017,operation,11,Equus caballus,26
+935,13/6/2017,soins divers,30,Falco peregrinus,27
+936,13/6/2017,operation,25,Hippopotamus amphibius,7
+937,13/6/2017,platre,26,Aptenodytes forsteri,12
+938,13/6/2017,platre,2,Felis silvestris,23
+939,13/6/2017,mise en quarantaine,26,Aptenodytes forsteri,21
+940,13/6/2017,operation,26,Bubo scandiacus,24
+941,13/6/2017,vaccin,29,Panthera leo,40
+942,14/6/2017,vaccin,1,Aptenodytes forsteri,39
+943,14/6/2017,operation,25,Panthera leo,29
+944,14/6/2017,platre,17,Canis dingo,11
+945,14/6/2017,mise en quarantaine,19,Cervus canadensis,18
+946,14/6/2017,mise en quarantaine,17,Ailuropoda melanoleuca,8
+947,14/6/2017,vaccin,27,Cervus canadensis,31
+948,14/6/2017,soins divers,4,Haliaeetus leucocephalus,3
+949,14/6/2017,mise en quarantaine,29,Elephas maximus,3
+950,14/6/2017,mise en quarantaine,17,Panthera tigris,15
+951,14/6/2017,vaccin,19,Falco peregrinus,10
+952,15/6/2017,operation,28,Giraffa camelopardalis,3
+953,15/6/2017,vaccin,19,Cervus canadensis,19
+954,15/6/2017,vaccin,19,Ardea cinerea,31
+955,15/6/2017,platre,4,Giraffa camelopardalis,29
+956,15/6/2017,soins divers,19,Cervus canadensis,18
+957,15/6/2017,platre,4,Bubo scandiacus,11
+958,15/6/2017,platre,10,Felis silvestris,27
+959,15/6/2017,soins divers,17,Elephas maximus,30
+960,16/6/2017,vaccin,7,Pongo pygmaeus,36
+961,16/6/2017,operation,26,Struthio camelus,23
+962,16/6/2017,operation,4,Equus caballus,22
+963,16/6/2017,vaccin,19,Canis dingo,28
+964,16/6/2017,mise en quarantaine,11,Panthera leo,16
+965,17/6/2017,operation,12,Ardea cinerea,7
+966,17/6/2017,platre,29,Hippopotamus amphibius,1
+967,17/6/2017,platre,4,Pan troglodytes,22
+968,17/6/2017,mise en quarantaine,10,Aptenodytes forsteri,27
+969,17/6/2017,mise en quarantaine,7,Equus caballus,26
+970,17/6/2017,operation,11,Giraffa camelopardalis,33
+971,17/6/2017,soins divers,12,Panthera uncia,2
+972,17/6/2017,mise en quarantaine,4,Felis silvestris,1
+973,17/6/2017,platre,30,Haliaeetus leucocephalus,3
+974,17/6/2017,operation,7,Felis silvestris,33
+975,17/6/2017,mise en quarantaine,28,Elephas maximus,2
+976,18/6/2017,operation,4,Lutra lutra,14
+977,18/6/2017,operation,4,Haliaeetus leucocephalus,13
+978,18/6/2017,platre,26,Pongo pygmaeus,4
+979,18/6/2017,soins divers,28,Panthera leo,5
+980,18/6/2017,vaccin,7,Ailurus fulgens,13
+981,18/6/2017,soins divers,10,Bubo scandiacus,36
+982,18/6/2017,platre,10,Pan troglodytes,28
+983,18/6/2017,platre,25,Ursus maritimus,16
+984,18/6/2017,platre,3,Ursus maritimus,9
+985,18/6/2017,vaccin,28,Lutra lutra,13
+986,18/6/2017,vaccin,28,Ailurus fulgens,27
+987,18/6/2017,mise en quarantaine,7,Ailuropoda melanoleuca,7
+988,18/6/2017,platre,4,Eunectes murinus,26
+989,18/6/2017,operation,11,Ursus maritimus,3
+990,18/6/2017,operation,27,Hippopotamus amphibius,4
+991,18/6/2017,operation,10,Ailurus fulgens,17
+992,18/6/2017,mise en quarantaine,30,Aptenodytes forsteri,11
+993,18/6/2017,operation,4,Aptenodytes forsteri,38
+994,18/6/2017,platre,7,Ailurus fulgens,9
+995,18/6/2017,mise en quarantaine,29,Ailurus fulgens,29
+996,18/6/2017,soins divers,16,Ailuropoda melanoleuca,11
+997,18/6/2017,platre,11,Urocyon cinereoargenteus,24
+998,19/6/2017,vaccin,29,Canis dingo,2
+999,20/6/2017,operation,26,Hippopotamus amphibius,19
+1000,20/6/2017,platre,11,Prunella modularis,11
+1001,20/6/2017,operation,12,Urocyon cinereoargenteus,28
+1002,20/6/2017,vaccin,19,Loxodonta africana,18
+1003,20/6/2017,operation,10,Pongo pygmaeus,8
+1004,20/6/2017,soins divers,27,Rangifer tarandus,20
+1005,20/6/2017,vaccin,26,Prunella modularis,5
+1006,20/6/2017,soins divers,2,Loxodonta africana,4
+1007,20/6/2017,operation,16,Canis dingo,33
+1008,20/6/2017,platre,29,Ardea cinerea,21
+1009,20/6/2017,platre,10,Pongo pygmaeus,14
+1010,20/6/2017,vaccin,2,Falco peregrinus,11
+1011,20/6/2017,operation,29,Hippopotamus amphibius,32
+1012,21/6/2017,soins divers,30,Cervus canadensis,27
+1013,21/6/2017,soins divers,1,Elephas maximus,21
+1014,21/6/2017,operation,12,Cervus canadensis,12
+1015,21/6/2017,platre,12,Aptenodytes forsteri,4
+1016,21/6/2017,vaccin,2,Ursus maritimus,14
+1017,21/6/2017,vaccin,26,Falco peregrinus,27
+1018,21/6/2017,vaccin,25,Lynx rufus,3
+1019,21/6/2017,mise en quarantaine,30,Urocyon cinereoargenteus,11
+1020,22/6/2017,mise en quarantaine,12,Hippopotamus amphibius,1
+1021,22/6/2017,soins divers,7,Struthio camelus,36
+1022,23/6/2017,soins divers,10,Urocyon cinereoargenteus,8
+1023,24/6/2017,soins divers,10,Falco peregrinus,24
+1024,25/6/2017,vaccin,16,Panthera leo,13
+1025,25/6/2017,mise en quarantaine,1,Ailurus fulgens,32
+1026,25/6/2017,platre,19,Canis dingo,22
+1027,25/6/2017,soins divers,17,Equus caballus,3
+1028,26/6/2017,operation,11,Bubo scandiacus,9
+1029,27/6/2017,mise en quarantaine,19,Falco peregrinus,7
+1030,27/6/2017,operation,19,Lynx rufus,2
+1031,27/6/2017,soins divers,4,Felis silvestris,6
+1032,27/6/2017,platre,2,Ardea cinerea,29
+1033,27/6/2017,vaccin,4,Lutra lutra,3
+1034,27/6/2017,operation,19,Hippopotamus amphibius,27
+1035,27/6/2017,mise en quarantaine,25,Hippopotamus amphibius,28
+1036,27/6/2017,mise en quarantaine,26,Equus caballus,17
+1037,27/6/2017,soins divers,28,Cervus canadensis,27
+1038,27/6/2017,platre,30,Urocyon cinereoargenteus,21
+1039,27/6/2017,vaccin,28,Canis dingo,30
+1040,27/6/2017,mise en quarantaine,28,Lutra lutra,24
+1041,27/6/2017,vaccin,7,Lutra lutra,11
+1042,27/6/2017,operation,16,Aptenodytes forsteri,16
+1043,27/6/2017,mise en quarantaine,17,Loxodonta africana,4
+1044,27/6/2017,vaccin,12,Canis dingo,8
+1045,28/6/2017,platre,26,Struthio camelus,30
+1046,28/6/2017,soins divers,17,Urocyon cinereoargenteus,24
+1047,28/6/2017,soins divers,4,Prunella modularis,9
+1048,28/6/2017,mise en quarantaine,7,Pongo pygmaeus,5
+1049,28/6/2017,operation,26,Bubo scandiacus,8
+1050,28/6/2017,operation,7,Ailurus fulgens,24
+1051,28/6/2017,mise en quarantaine,25,Panthera leo,41
+1052,1/7/2017,mise en quarantaine,3,Ursus maritimus,22
+1053,1/7/2017,platre,17,Bubo scandiacus,15
+1054,2/7/2017,vaccin,1,Ailuropoda melanoleuca,13
+1055,2/7/2017,platre,19,Aptenodytes forsteri,47
+1056,2/7/2017,vaccin,1,Urocyon cinereoargenteus,12
+1057,2/7/2017,vaccin,25,Canis dingo,13
+1058,2/7/2017,operation,12,Aptenodytes forsteri,47
+1059,2/7/2017,platre,2,Aptenodytes forsteri,21
+1060,2/7/2017,mise en quarantaine,7,Panthera uncia,3
+1061,2/7/2017,platre,17,Pongo pygmaeus,12
+1062,2/7/2017,operation,12,Haliaeetus leucocephalus,3
+1063,2/7/2017,operation,17,Cervus canadensis,25
+1064,3/7/2017,platre,30,Ardea cinerea,35
+1065,4/7/2017,mise en quarantaine,7,Falco peregrinus,25
+1066,4/7/2017,soins divers,25,Equus caballus,26
+1067,4/7/2017,vaccin,3,Ardea cinerea,30
+1068,4/7/2017,mise en quarantaine,28,Prunella modularis,6
+1069,4/7/2017,operation,1,Felis silvestris,28
+1070,4/7/2017,vaccin,28,Aptenodytes forsteri,29
+1071,4/7/2017,soins divers,7,Panthera uncia,16
+1072,4/7/2017,operation,16,Hippopotamus amphibius,19
+1073,4/7/2017,vaccin,11,Panthera pardus,17
+1074,4/7/2017,vaccin,30,Urocyon cinereoargenteus,24
+1075,4/7/2017,platre,3,Falco peregrinus,18
+1076,4/7/2017,platre,30,Panthera uncia,1
+1077,4/7/2017,soins divers,3,Pan troglodytes,29
+1078,5/7/2017,soins divers,28,Felis silvestris,23
+1079,5/7/2017,operation,12,Cervus canadensis,31
+1080,5/7/2017,operation,29,Panthera uncia,25
+1081,5/7/2017,operation,1,Panthera tigris,12
+1082,5/7/2017,operation,2,Ailurus fulgens,33
+1083,5/7/2017,vaccin,17,Rangifer tarandus,12
+1084,5/7/2017,operation,4,Panthera leo,17
+1085,6/7/2017,operation,1,Prunella modularis,4
+1086,6/7/2017,soins divers,12,Cervus canadensis,6
+1087,7/7/2017,platre,16,Aptenodytes forsteri,7
+1088,7/7/2017,platre,3,Haliaeetus leucocephalus,3
+1089,7/7/2017,mise en quarantaine,30,Canis lupus,25
+1090,7/7/2017,platre,28,Panthera leo,43
+1091,7/7/2017,platre,1,Aptenodytes forsteri,14
+1092,7/7/2017,vaccin,17,Struthio camelus,39
+1093,7/7/2017,operation,4,Pongo pygmaeus,8
+1094,7/7/2017,vaccin,16,Struthio camelus,40
+1095,7/7/2017,soins divers,27,Pan troglodytes,1
+1096,7/7/2017,platre,10,Prunella modularis,5
+1097,7/7/2017,vaccin,28,Lynx rufus,11
+1098,8/7/2017,operation,2,Loxodonta africana,12
+1099,8/7/2017,vaccin,12,Hippopotamus amphibius,2
+1100,8/7/2017,operation,16,Prunella modularis,1
+1101,8/7/2017,mise en quarantaine,1,Urocyon cinereoargenteus,11
+1102,8/7/2017,soins divers,2,Ailurus fulgens,36
+1103,8/7/2017,vaccin,29,Elephas maximus,10
+1104,8/7/2017,mise en quarantaine,11,Falco peregrinus,25
+1105,8/7/2017,soins divers,1,Equus caballus,11
+1106,8/7/2017,vaccin,26,Eunectes murinus,6
+1107,8/7/2017,vaccin,27,Falco peregrinus,24
+1108,8/7/2017,mise en quarantaine,26,Giraffa camelopardalis,30
+1109,9/7/2017,operation,3,Ailurus fulgens,5
+1110,9/7/2017,operation,12,Ursus maritimus,32
+1111,9/7/2017,vaccin,29,Aptenodytes forsteri,29
+1112,9/7/2017,operation,28,Cervus canadensis,9
+1113,9/7/2017,platre,16,Ursus maritimus,21
+1114,9/7/2017,vaccin,16,Falco peregrinus,10
+1115,9/7/2017,mise en quarantaine,16,Rangifer tarandus,7
+1116,9/7/2017,vaccin,1,Ailurus fulgens,27
+1117,9/7/2017,mise en quarantaine,19,Haliaeetus leucocephalus,29
+1118,9/7/2017,mise en quarantaine,27,Rangifer tarandus,1
+1119,10/7/2017,vaccin,2,Ailuropoda melanoleuca,23
+1120,10/7/2017,vaccin,10,Panthera leo,6
+1121,10/7/2017,platre,12,Pongo pygmaeus,25
+1122,10/7/2017,operation,26,Cervus canadensis,24
+1123,10/7/2017,mise en quarantaine,25,Canis dingo,1
+1124,10/7/2017,mise en quarantaine,10,Pan troglodytes,39
+1125,10/7/2017,platre,25,Giraffa camelopardalis,11
+1126,10/7/2017,platre,10,Lynx rufus,6
+1127,10/7/2017,soins divers,19,Cervus canadensis,32
+1128,10/7/2017,operation,19,Eunectes murinus,28
+1129,10/7/2017,platre,25,Haliaeetus leucocephalus,22
+1130,10/7/2017,mise en quarantaine,26,Ailuropoda melanoleuca,14
+1131,10/7/2017,platre,4,Hippopotamus amphibius,21
+1132,10/7/2017,platre,16,Pan troglodytes,6
+1133,10/7/2017,soins divers,2,Struthio camelus,1
+1134,10/7/2017,soins divers,4,Canis dingo,9
+1135,10/7/2017,operation,1,Ailurus fulgens,33
+1136,11/7/2017,mise en quarantaine,4,Urocyon cinereoargenteus,3
+1137,11/7/2017,platre,17,Ardea cinerea,27
+1138,12/7/2017,vaccin,2,Prunella modularis,19
+1139,12/7/2017,soins divers,3,Ardea cinerea,15
+1140,12/7/2017,operation,12,Lutra lutra,12
+1141,12/7/2017,platre,7,Felis silvestris,22
+1142,12/7/2017,mise en quarantaine,3,Elephas maximus,18
+1143,12/7/2017,platre,17,Panthera uncia,37
+1144,12/7/2017,operation,19,Hippopotamus amphibius,23
+1145,12/7/2017,mise en quarantaine,4,Ursus maritimus,9
+1146,12/7/2017,mise en quarantaine,3,Aptenodytes forsteri,34
+1147,12/7/2017,platre,12,Panthera uncia,23
+1148,12/7/2017,soins divers,4,Bubo scandiacus,24
+1149,12/7/2017,mise en quarantaine,19,Ailurus fulgens,35
+1150,13/7/2017,soins divers,7,Ursus maritimus,20
+1151,13/7/2017,operation,2,Canis lupus,17
+1152,13/7/2017,platre,29,Canis lupus,6
+1153,13/7/2017,mise en quarantaine,4,Lynx rufus,18
+1154,13/7/2017,mise en quarantaine,16,Bubo scandiacus,27
+1155,13/7/2017,platre,27,Panthera tigris,17
+1156,13/7/2017,vaccin,3,Panthera uncia,8
+1157,13/7/2017,soins divers,29,Panthera uncia,26
+1158,13/7/2017,operation,25,Panthera leo,15
+1159,14/7/2017,soins divers,28,Rangifer tarandus,1
+1160,14/7/2017,operation,28,Urocyon cinereoargenteus,13
+1161,14/7/2017,soins divers,11,Canis lupus,11
+1162,14/7/2017,platre,29,Panthera tigris,12
+1163,14/7/2017,soins divers,1,Ailurus fulgens,41
+1164,14/7/2017,platre,7,Urocyon cinereoargenteus,17
+1165,14/7/2017,soins divers,25,Urocyon cinereoargenteus,13
+1166,14/7/2017,mise en quarantaine,3,Ardea cinerea,3
+1167,14/7/2017,soins divers,10,Giraffa camelopardalis,16
+1168,15/7/2017,operation,10,Ailuropoda melanoleuca,4
+1169,15/7/2017,soins divers,3,Ailurus fulgens,38
+1170,15/7/2017,mise en quarantaine,1,Ailurus fulgens,38
+1171,15/7/2017,operation,17,Ursus maritimus,17
+1172,15/7/2017,mise en quarantaine,7,Canis dingo,1
+1173,15/7/2017,vaccin,29,Panthera pardus,12
+1174,15/7/2017,platre,17,Struthio camelus,32
+1175,15/7/2017,mise en quarantaine,4,Urocyon cinereoargenteus,27
+1176,15/7/2017,soins divers,26,Panthera pardus,11
+1177,15/7/2017,soins divers,19,Elephas maximus,34
+1178,15/7/2017,mise en quarantaine,10,Ardea cinerea,38
+1179,15/7/2017,soins divers,30,Pongo pygmaeus,13
+1180,15/7/2017,soins divers,28,Struthio camelus,30
+1181,15/7/2017,mise en quarantaine,25,Ursus maritimus,16
+1182,15/7/2017,vaccin,16,Canis dingo,28
+1183,16/7/2017,mise en quarantaine,28,Ursus maritimus,22
+1184,16/7/2017,operation,28,Pan troglodytes,39
+1185,16/7/2017,soins divers,17,Rangifer tarandus,1
+1186,16/7/2017,vaccin,30,Lutra lutra,9
+1187,16/7/2017,operation,19,Haliaeetus leucocephalus,8
+1188,16/7/2017,operation,2,Felis silvestris,15
+1189,16/7/2017,operation,17,Urocyon cinereoargenteus,12
+1190,17/7/2017,vaccin,19,Ursus maritimus,9
+1191,17/7/2017,soins divers,1,Ardea cinerea,42
+1192,18/7/2017,soins divers,10,Ailurus fulgens,20
+1193,18/7/2017,vaccin,29,Panthera uncia,33
+1194,18/7/2017,vaccin,3,Panthera uncia,30
+1195,18/7/2017,platre,4,Bubo scandiacus,11
+1196,19/7/2017,mise en quarantaine,19,Struthio camelus,23
+1197,19/7/2017,soins divers,28,Urocyon cinereoargenteus,7
+1198,19/7/2017,platre,11,Bubo scandiacus,2
+1199,19/7/2017,soins divers,26,Canis dingo,20
+1200,19/7/2017,mise en quarantaine,4,Panthera pardus,6
+1201,19/7/2017,platre,25,Falco peregrinus,15
+1202,19/7/2017,soins divers,29,Bubo scandiacus,4
+1203,19/7/2017,soins divers,10,Eunectes murinus,29
+1204,19/7/2017,vaccin,2,Eunectes murinus,17
+1205,19/7/2017,mise en quarantaine,4,Giraffa camelopardalis,6
+1206,19/7/2017,soins divers,1,Rangifer tarandus,5
+1207,19/7/2017,mise en quarantaine,26,Ardea cinerea,31
+1208,19/7/2017,vaccin,27,Panthera uncia,3
+1209,19/7/2017,vaccin,16,Hippopotamus amphibius,28
+1210,19/7/2017,soins divers,26,Giraffa camelopardalis,23
+1211,19/7/2017,platre,27,Bubo scandiacus,35
+1212,19/7/2017,soins divers,1,Pongo pygmaeus,28
+1213,19/7/2017,operation,28,Panthera leo,12
+1214,19/7/2017,operation,2,Urocyon cinereoargenteus,30
+1215,20/7/2017,soins divers,1,Bubo scandiacus,23
+1216,20/7/2017,vaccin,11,Elephas maximus,35
+1217,21/7/2017,operation,7,Panthera uncia,12
+1218,22/7/2017,platre,27,Rangifer tarandus,5
+1219,23/7/2017,platre,4,Haliaeetus leucocephalus,6
+1220,23/7/2017,mise en quarantaine,2,Ursus maritimus,18
+1221,24/7/2017,mise en quarantaine,16,Falco peregrinus,12
+1222,24/7/2017,soins divers,16,Equus caballus,24
+1223,24/7/2017,platre,10,Falco peregrinus,18
+1224,24/7/2017,soins divers,1,Eunectes murinus,30
+1225,25/7/2017,platre,25,Urocyon cinereoargenteus,29
+1226,25/7/2017,soins divers,17,Canis dingo,3
+1227,25/7/2017,soins divers,3,Pan troglodytes,13
+1228,25/7/2017,soins divers,16,Panthera pardus,5
+1229,25/7/2017,platre,25,Falco peregrinus,19
+1230,25/7/2017,vaccin,3,Prunella modularis,4
+1231,25/7/2017,mise en quarantaine,4,Felis silvestris,2
+1232,25/7/2017,operation,10,Aptenodytes forsteri,38
+1233,25/7/2017,vaccin,27,Hippopotamus amphibius,19
+1234,25/7/2017,soins divers,10,Ursus maritimus,15
+1235,25/7/2017,operation,2,Equus caballus,24
+1236,25/7/2017,vaccin,26,Hippopotamus amphibius,28
+1237,25/7/2017,operation,19,Prunella modularis,4
+1238,26/7/2017,platre,28,Lutra lutra,27
+1239,26/7/2017,vaccin,27,Elephas maximus,25
+1240,26/7/2017,soins divers,3,Pongo pygmaeus,17
+1241,27/7/2017,platre,16,Canis lupus,13
+1242,27/7/2017,operation,10,Lynx rufus,18
+1243,27/7/2017,soins divers,4,Pongo pygmaeus,9
+1244,27/7/2017,platre,11,Hippopotamus amphibius,35
+1245,27/7/2017,vaccin,7,Ailurus fulgens,15
+1246,27/7/2017,vaccin,25,Falco peregrinus,24
+1247,28/7/2017,vaccin,28,Giraffa camelopardalis,14
+1248,28/7/2017,platre,27,Rangifer tarandus,3
+1249,28/7/2017,soins divers,11,Falco peregrinus,8
+1250,28/7/2017,soins divers,11,Panthera pardus,3
+1251,28/7/2017,soins divers,10,Canis lupus,14
+1252,28/7/2017,mise en quarantaine,19,Pongo pygmaeus,8
+1253,1/8/2017,vaccin,3,Loxodonta africana,14
+1254,1/8/2017,operation,26,Panthera leo,12
+1255,1/8/2017,mise en quarantaine,28,Bubo scandiacus,21
+1256,1/8/2017,soins divers,11,Canis dingo,26
+1257,1/8/2017,vaccin,29,Bubo scandiacus,35
+1258,1/8/2017,mise en quarantaine,28,Struthio camelus,10
+1259,1/8/2017,platre,3,Equus caballus,3
+1260,1/8/2017,platre,27,Cervus canadensis,23
+1261,1/8/2017,soins divers,26,Cervus canadensis,7
+1262,2/8/2017,vaccin,25,Eunectes murinus,16
+1263,3/8/2017,platre,1,Ursus maritimus,16
+1264,4/8/2017,vaccin,17,Ailurus fulgens,36
+1265,4/8/2017,vaccin,10,Equus caballus,30
+1266,5/8/2017,platre,2,Hippopotamus amphibius,10
+1267,5/8/2017,platre,25,Pongo pygmaeus,35
+1268,5/8/2017,operation,10,Haliaeetus leucocephalus,20
+1269,5/8/2017,vaccin,17,Equus caballus,26
+1270,5/8/2017,soins divers,10,Panthera pardus,6
+1271,5/8/2017,mise en quarantaine,12,Struthio camelus,28
+1272,5/8/2017,platre,16,Equus caballus,6
+1273,6/8/2017,soins divers,28,Eunectes murinus,1
+1274,6/8/2017,operation,4,Ailurus fulgens,36
+1275,6/8/2017,platre,11,Falco peregrinus,9
+1276,7/8/2017,mise en quarantaine,27,Ailuropoda melanoleuca,3
+1277,8/8/2017,operation,3,Cervus canadensis,29
+1278,8/8/2017,mise en quarantaine,25,Ailurus fulgens,38
+1279,8/8/2017,soins divers,29,Prunella modularis,12
+1280,8/8/2017,operation,16,Ailurus fulgens,29
+1281,8/8/2017,soins divers,27,Panthera tigris,16
+1282,8/8/2017,mise en quarantaine,27,Ardea cinerea,7
+1283,8/8/2017,mise en quarantaine,1,Elephas maximus,28
+1284,8/8/2017,platre,11,Pongo pygmaeus,25
+1285,8/8/2017,vaccin,29,Equus caballus,32
+1286,8/8/2017,platre,26,Equus caballus,21
+1287,9/8/2017,mise en quarantaine,29,Cervus canadensis,1
+1288,9/8/2017,operation,7,Bubo scandiacus,3
+1289,9/8/2017,mise en quarantaine,16,Aptenodytes forsteri,25
+1290,9/8/2017,operation,16,Lynx rufus,14
+1291,9/8/2017,soins divers,10,Ardea cinerea,32
+1292,9/8/2017,operation,10,Pongo pygmaeus,11
+1293,9/8/2017,vaccin,12,Ailurus fulgens,27
+1294,9/8/2017,operation,4,Hippopotamus amphibius,12
+1295,9/8/2017,vaccin,16,Cervus canadensis,28
+1296,9/8/2017,soins divers,10,Haliaeetus leucocephalus,18
+1297,9/8/2017,soins divers,4,Canis dingo,20
+1298,10/8/2017,mise en quarantaine,16,Haliaeetus leucocephalus,18
+1299,11/8/2017,vaccin,2,Panthera pardus,3
+1300,11/8/2017,platre,27,Ailuropoda melanoleuca,20
+1301,11/8/2017,vaccin,16,Panthera uncia,28
+1302,11/8/2017,mise en quarantaine,11,Haliaeetus leucocephalus,7
+1303,11/8/2017,platre,3,Panthera uncia,11
+1304,12/8/2017,platre,26,Canis lupus,11
+1305,12/8/2017,mise en quarantaine,10,Equus caballus,16
+1306,12/8/2017,operation,16,Equus caballus,14
+1307,12/8/2017,mise en quarantaine,25,Canis lupus,4
+1308,12/8/2017,operation,10,Ursus maritimus,11
+1309,13/8/2017,mise en quarantaine,7,Pongo pygmaeus,3
+1310,13/8/2017,platre,12,Urocyon cinereoargenteus,12
+1311,13/8/2017,operation,3,Ursus maritimus,22
+1312,13/8/2017,mise en quarantaine,11,Hippopotamus amphibius,24
+1313,13/8/2017,operation,28,Lutra lutra,13
+1314,13/8/2017,soins divers,7,Rangifer tarandus,1
+1315,13/8/2017,platre,30,Ailurus fulgens,5
+1316,14/8/2017,operation,10,Urocyon cinereoargenteus,4
+1317,14/8/2017,mise en quarantaine,17,Urocyon cinereoargenteus,12
+1318,15/8/2017,vaccin,25,Ailurus fulgens,11
+1319,16/8/2017,operation,10,Ursus maritimus,9
+1320,16/8/2017,platre,25,Urocyon cinereoargenteus,17
+1321,16/8/2017,operation,4,Pan troglodytes,38
+1322,16/8/2017,soins divers,30,Struthio camelus,8
+1323,16/8/2017,mise en quarantaine,30,Canis dingo,7
+1324,16/8/2017,mise en quarantaine,19,Struthio camelus,6
+1325,16/8/2017,soins divers,4,Haliaeetus leucocephalus,4
+1326,16/8/2017,vaccin,25,Ursus maritimus,4
+1327,16/8/2017,mise en quarantaine,29,Canis dingo,30
+1328,16/8/2017,soins divers,11,Struthio camelus,44
+1329,16/8/2017,vaccin,4,Ardea cinerea,35
+1330,16/8/2017,vaccin,4,Panthera tigris,22
+1331,16/8/2017,platre,28,Ardea cinerea,26
+1332,16/8/2017,soins divers,7,Pan troglodytes,5
+1333,16/8/2017,mise en quarantaine,17,Lynx rufus,4
+1334,16/8/2017,operation,12,Hippopotamus amphibius,9
+1335,16/8/2017,vaccin,30,Aptenodytes forsteri,27
+1336,16/8/2017,mise en quarantaine,25,Prunella modularis,18
+1337,17/8/2017,soins divers,30,Ardea cinerea,1
+1338,17/8/2017,operation,29,Elephas maximus,37
+1339,18/8/2017,soins divers,11,Panthera pardus,8
+1340,18/8/2017,mise en quarantaine,16,Urocyon cinereoargenteus,27
+1341,18/8/2017,vaccin,25,Elephas maximus,3
+1342,18/8/2017,platre,1,Felis silvestris,21
+1343,18/8/2017,operation,11,Ardea cinerea,10
+1344,19/8/2017,platre,30,Giraffa camelopardalis,17
+1345,20/8/2017,mise en quarantaine,11,Ursus maritimus,15
+1346,21/8/2017,operation,25,Prunella modularis,11
+1347,21/8/2017,mise en quarantaine,30,Panthera leo,14
+1348,21/8/2017,soins divers,11,Urocyon cinereoargenteus,29
+1349,22/8/2017,operation,26,Panthera uncia,33
+1350,22/8/2017,mise en quarantaine,2,Falco peregrinus,31
+1351,22/8/2017,operation,2,Panthera pardus,8
+1352,23/8/2017,platre,7,Struthio camelus,13
+1353,24/8/2017,platre,19,Rangifer tarandus,5
+1354,24/8/2017,operation,17,Giraffa camelopardalis,31
+1355,24/8/2017,mise en quarantaine,7,Panthera tigris,1
+1356,24/8/2017,vaccin,12,Equus caballus,5
+1357,24/8/2017,operation,16,Pongo pygmaeus,24
+1358,24/8/2017,soins divers,3,Cervus canadensis,4
+1359,24/8/2017,operation,4,Falco peregrinus,27
+1360,25/8/2017,operation,3,Elephas maximus,14
+1361,25/8/2017,soins divers,11,Pongo pygmaeus,13
+1362,25/8/2017,mise en quarantaine,10,Lynx rufus,16
+1363,25/8/2017,vaccin,10,Canis lupus,25
+1364,25/8/2017,soins divers,27,Giraffa camelopardalis,15
+1365,25/8/2017,platre,30,Prunella modularis,18
+1366,25/8/2017,platre,4,Giraffa camelopardalis,16
+1367,25/8/2017,mise en quarantaine,25,Falco peregrinus,26
+1368,25/8/2017,soins divers,1,Struthio camelus,26
+1369,25/8/2017,mise en quarantaine,16,Panthera pardus,7
+1370,25/8/2017,vaccin,17,Felis silvestris,20
+1371,25/8/2017,platre,17,Ailurus fulgens,39
+1372,25/8/2017,soins divers,29,Canis lupus,23
+1373,25/8/2017,mise en quarantaine,12,Rangifer tarandus,22
+1374,25/8/2017,operation,3,Ailurus fulgens,29
+1375,25/8/2017,platre,19,Ardea cinerea,14
+1376,25/8/2017,vaccin,16,Giraffa camelopardalis,13
+1377,25/8/2017,soins divers,2,Felis silvestris,28
+1378,25/8/2017,soins divers,17,Aptenodytes forsteri,6
+1379,25/8/2017,mise en quarantaine,11,Ursus maritimus,32
+1380,25/8/2017,vaccin,29,Panthera tigris,4
+1381,25/8/2017,operation,1,Ardea cinerea,28
+1382,26/8/2017,soins divers,19,Loxodonta africana,3
+1383,26/8/2017,mise en quarantaine,26,Equus caballus,31
+1384,26/8/2017,vaccin,25,Ursus maritimus,17
+1385,26/8/2017,platre,12,Canis dingo,10
+1386,26/8/2017,soins divers,7,Lutra lutra,13
+1387,26/8/2017,mise en quarantaine,30,Haliaeetus leucocephalus,29
+1388,26/8/2017,vaccin,19,Ardea cinerea,35
+1389,27/8/2017,mise en quarantaine,3,Urocyon cinereoargenteus,24
+1390,27/8/2017,soins divers,17,Lutra lutra,9
+1391,27/8/2017,mise en quarantaine,19,Ursus maritimus,29
+1392,28/8/2017,vaccin,26,Ardea cinerea,34
+1393,1/9/2017,mise en quarantaine,16,Pongo pygmaeus,35
+1394,1/9/2017,operation,12,Pongo pygmaeus,18
+1395,1/9/2017,mise en quarantaine,17,Prunella modularis,18
+1396,1/9/2017,platre,2,Canis dingo,12
+1397,1/9/2017,mise en quarantaine,27,Lutra lutra,11
+1398,1/9/2017,soins divers,30,Pongo pygmaeus,19
+1399,1/9/2017,platre,17,Giraffa camelopardalis,24
+1400,1/9/2017,mise en quarantaine,11,Struthio camelus,44
+1401,1/9/2017,vaccin,26,Panthera uncia,11
+1402,1/9/2017,vaccin,29,Panthera uncia,10
+1403,1/9/2017,operation,3,Panthera leo,22
+1404,1/9/2017,soins divers,1,Felis silvestris,12
+1405,2/9/2017,platre,1,Loxodonta africana,4
+1406,2/9/2017,soins divers,2,Ailurus fulgens,32
+1407,2/9/2017,platre,16,Pongo pygmaeus,34
+1408,2/9/2017,platre,12,Struthio camelus,18
+1409,2/9/2017,platre,30,Panthera uncia,13
+1410,3/9/2017,vaccin,30,Ailurus fulgens,38
+1411,3/9/2017,platre,19,Cervus canadensis,20
+1412,3/9/2017,platre,25,Haliaeetus leucocephalus,18
+1413,3/9/2017,platre,12,Pan troglodytes,30
+1414,4/9/2017,vaccin,19,Ailurus fulgens,27
+1415,4/9/2017,mise en quarantaine,4,Equus caballus,9
+1416,5/9/2017,operation,25,Hippopotamus amphibius,23
+1417,5/9/2017,vaccin,30,Panthera tigris,4
+1418,5/9/2017,mise en quarantaine,25,Bubo scandiacus,10
+1419,5/9/2017,mise en quarantaine,27,Haliaeetus leucocephalus,5
+1420,5/9/2017,platre,7,Falco peregrinus,11
+1421,5/9/2017,mise en quarantaine,3,Cervus canadensis,13
+1422,5/9/2017,vaccin,2,Elephas maximus,39
+1423,5/9/2017,mise en quarantaine,2,Urocyon cinereoargenteus,26
+1424,5/9/2017,platre,28,Lynx rufus,13
+1425,5/9/2017,vaccin,30,Pongo pygmaeus,31
+1426,5/9/2017,operation,16,Lynx rufus,11
+1427,5/9/2017,operation,3,Pongo pygmaeus,8
+1428,5/9/2017,operation,11,Eunectes murinus,2
+1429,6/9/2017,soins divers,25,Eunectes murinus,25
+1430,6/9/2017,soins divers,1,Lynx rufus,16
+1431,6/9/2017,operation,30,Haliaeetus leucocephalus,18
+1432,6/9/2017,vaccin,11,Panthera leo,31
+1433,6/9/2017,vaccin,30,Felis silvestris,30
+1434,6/9/2017,soins divers,17,Loxodonta africana,16
+1435,6/9/2017,mise en quarantaine,2,Canis lupus,4
+1436,6/9/2017,vaccin,2,Ursus maritimus,1
+1437,7/9/2017,soins divers,7,Haliaeetus leucocephalus,7
+1438,8/9/2017,operation,28,Lynx rufus,2
+1439,8/9/2017,mise en quarantaine,4,Elephas maximus,19
+1440,8/9/2017,mise en quarantaine,10,Aptenodytes forsteri,13
+1441,9/9/2017,operation,2,Felis silvestris,22
+1442,10/9/2017,soins divers,10,Ardea cinerea,3
+1443,10/9/2017,vaccin,30,Lutra lutra,25
+1444,10/9/2017,soins divers,27,Cervus canadensis,7
+1445,11/9/2017,soins divers,26,Ailurus fulgens,18
+1446,11/9/2017,operation,12,Ursus maritimus,20
+1447,11/9/2017,soins divers,26,Ailurus fulgens,33
+1448,11/9/2017,platre,19,Struthio camelus,25
+1449,11/9/2017,soins divers,3,Ardea cinerea,33
+1450,12/9/2017,soins divers,29,Ardea cinerea,6
+1451,12/9/2017,mise en quarantaine,12,Panthera leo,3
+1452,12/9/2017,soins divers,25,Ardea cinerea,28
+1453,12/9/2017,platre,27,Felis silvestris,9
+1454,12/9/2017,operation,30,Bubo scandiacus,28
+1455,13/9/2017,platre,1,Ailurus fulgens,27
+1456,13/9/2017,operation,2,Panthera uncia,32
+1457,13/9/2017,vaccin,3,Bubo scandiacus,29
+1458,13/9/2017,vaccin,2,Panthera leo,1
+1459,13/9/2017,platre,26,Prunella modularis,12
+1460,13/9/2017,mise en quarantaine,4,Elephas maximus,27
+1461,13/9/2017,platre,4,Struthio camelus,19
+1462,13/9/2017,platre,19,Struthio camelus,38
+1463,13/9/2017,soins divers,1,Ursus maritimus,27
+1464,13/9/2017,operation,1,Pongo pygmaeus,16
+1465,13/9/2017,vaccin,11,Struthio camelus,27
+1466,13/9/2017,soins divers,11,Urocyon cinereoargenteus,23
+1467,14/9/2017,vaccin,17,Canis dingo,1
+1468,14/9/2017,mise en quarantaine,2,Pongo pygmaeus,35
+1469,14/9/2017,platre,29,Bubo scandiacus,11
+1470,15/9/2017,mise en quarantaine,7,Pongo pygmaeus,32
+1471,15/9/2017,platre,27,Hippopotamus amphibius,10
+1472,15/9/2017,soins divers,10,Ailuropoda melanoleuca,10
+1473,15/9/2017,operation,28,Felis silvestris,29
+1474,16/9/2017,soins divers,1,Pan troglodytes,8
+1475,16/9/2017,operation,4,Felis silvestris,30
+1476,16/9/2017,soins divers,19,Hippopotamus amphibius,14
+1477,16/9/2017,mise en quarantaine,25,Felis silvestris,23
+1478,16/9/2017,operation,28,Canis dingo,3
+1479,17/9/2017,mise en quarantaine,11,Rangifer tarandus,28
+1480,17/9/2017,mise en quarantaine,19,Eunectes murinus,31
+1481,17/9/2017,operation,26,Hippopotamus amphibius,9
+1482,17/9/2017,soins divers,7,Struthio camelus,1
+1483,17/9/2017,soins divers,19,Ursus maritimus,33
+1484,18/9/2017,vaccin,12,Urocyon cinereoargenteus,24
+1485,18/9/2017,operation,1,Hippopotamus amphibius,24
+1486,19/9/2017,operation,4,Felis silvestris,10
+1487,19/9/2017,platre,19,Felis silvestris,10
+1488,19/9/2017,mise en quarantaine,4,Lutra lutra,14
+1489,20/9/2017,platre,25,Eunectes murinus,31
+1490,21/9/2017,soins divers,28,Ursus maritimus,34
+1491,21/9/2017,vaccin,26,Bubo scandiacus,11
+1492,21/9/2017,platre,1,Bubo scandiacus,1
+1493,21/9/2017,platre,10,Canis lupus,6
+1494,21/9/2017,operation,3,Ardea cinerea,36
+1495,21/9/2017,platre,4,Panthera uncia,23
+1496,21/9/2017,soins divers,12,Bubo scandiacus,20
+1497,21/9/2017,operation,26,Ailurus fulgens,2
+1498,21/9/2017,soins divers,12,Lutra lutra,1
+1499,21/9/2017,vaccin,29,Bubo scandiacus,5
+1500,21/9/2017,vaccin,1,Haliaeetus leucocephalus,11
+1501,21/9/2017,platre,11,Ailuropoda melanoleuca,5
+1502,21/9/2017,soins divers,19,Aptenodytes forsteri,34
+1503,21/9/2017,soins divers,4,Aptenodytes forsteri,41
+1504,22/9/2017,mise en quarantaine,12,Lynx rufus,23
+1505,23/9/2017,vaccin,30,Panthera uncia,3
+1506,24/9/2017,soins divers,30,Ailuropoda melanoleuca,20
+1507,24/9/2017,vaccin,16,Cervus canadensis,1
+1508,24/9/2017,operation,25,Haliaeetus leucocephalus,3
+1509,24/9/2017,soins divers,2,Ailurus fulgens,38
+1510,24/9/2017,vaccin,1,Ailuropoda melanoleuca,24
+1511,24/9/2017,vaccin,16,Panthera uncia,20
+1512,24/9/2017,platre,29,Cervus canadensis,23
+1513,24/9/2017,platre,11,Elephas maximus,25
+1514,24/9/2017,vaccin,11,Panthera pardus,11
+1515,25/9/2017,mise en quarantaine,30,Eunectes murinus,2
+1516,25/9/2017,vaccin,27,Bubo scandiacus,3
+1517,25/9/2017,mise en quarantaine,17,Bubo scandiacus,24
+1518,26/9/2017,operation,10,Eunectes murinus,22
+1519,26/9/2017,soins divers,1,Falco peregrinus,15
+1520,26/9/2017,operation,27,Ailuropoda melanoleuca,11
+1521,26/9/2017,mise en quarantaine,28,Ardea cinerea,13
+1522,27/9/2017,operation,28,Pan troglodytes,19
+1523,27/9/2017,operation,7,Eunectes murinus,22
+1524,27/9/2017,mise en quarantaine,19,Aptenodytes forsteri,5
+1525,27/9/2017,soins divers,28,Falco peregrinus,31
+1526,28/9/2017,platre,10,Cervus canadensis,18
+1527,1/10/2017,mise en quarantaine,29,Haliaeetus leucocephalus,3
+1528,1/10/2017,soins divers,26,Struthio camelus,40
+1529,1/10/2017,operation,28,Aptenodytes forsteri,36
+1530,1/10/2017,mise en quarantaine,27,Hippopotamus amphibius,12
+1531,1/10/2017,operation,12,Eunectes murinus,22
+1532,1/10/2017,vaccin,4,Elephas maximus,20
+1533,1/10/2017,platre,12,Ursus maritimus,9
+1534,1/10/2017,soins divers,28,Hippopotamus amphibius,19
+1535,2/10/2017,soins divers,27,Cervus canadensis,27
+1536,2/10/2017,vaccin,25,Canis dingo,16
+1537,2/10/2017,mise en quarantaine,27,Panthera pardus,13
+1538,2/10/2017,mise en quarantaine,3,Felis silvestris,20
+1539,2/10/2017,operation,3,Bubo scandiacus,27
+1540,2/10/2017,platre,10,Canis dingo,33
+1541,2/10/2017,mise en quarantaine,7,Pongo pygmaeus,14
+1542,2/10/2017,platre,25,Panthera leo,6
+1543,2/10/2017,vaccin,19,Panthera uncia,2
+1544,2/10/2017,mise en quarantaine,7,Canis dingo,30
+1545,3/10/2017,soins divers,3,Canis lupus,24
+1546,3/10/2017,platre,16,Ursus maritimus,6
+1547,4/10/2017,operation,2,Prunella modularis,1
+1548,4/10/2017,platre,7,Canis dingo,32
+1549,4/10/2017,vaccin,25,Cervus canadensis,23
+1550,4/10/2017,operation,10,Canis dingo,27
+1551,4/10/2017,operation,4,Ailurus fulgens,11
+1552,4/10/2017,mise en quarantaine,26,Eunectes murinus,22
+1553,4/10/2017,platre,2,Urocyon cinereoargenteus,11
+1554,4/10/2017,platre,29,Panthera leo,2
+1555,4/10/2017,operation,25,Ursus maritimus,13
+1556,4/10/2017,vaccin,25,Rangifer tarandus,8
+1557,4/10/2017,vaccin,7,Lutra lutra,10
+1558,4/10/2017,vaccin,28,Struthio camelus,13
+1559,4/10/2017,soins divers,7,Bubo scandiacus,18
+1560,4/10/2017,soins divers,10,Elephas maximus,22
+1561,4/10/2017,soins divers,25,Prunella modularis,17
+1562,4/10/2017,platre,26,Canis lupus,25
+1563,4/10/2017,platre,25,Aptenodytes forsteri,7
+1564,4/10/2017,vaccin,11,Aptenodytes forsteri,32
+1565,4/10/2017,soins divers,12,Falco peregrinus,15
+1566,5/10/2017,soins divers,11,Aptenodytes forsteri,10
+1567,5/10/2017,operation,25,Ailuropoda melanoleuca,9
+1568,6/10/2017,mise en quarantaine,10,Struthio camelus,34
+1569,6/10/2017,operation,19,Falco peregrinus,12
+1570,6/10/2017,operation,17,Rangifer tarandus,27
+1571,6/10/2017,vaccin,7,Struthio camelus,33
+1572,7/10/2017,mise en quarantaine,7,Rangifer tarandus,12
+1573,7/10/2017,platre,30,Equus caballus,19
+1574,7/10/2017,soins divers,19,Ailuropoda melanoleuca,15
+1575,8/10/2017,platre,2,Struthio camelus,24
+1576,9/10/2017,vaccin,17,Elephas maximus,18
+1577,9/10/2017,platre,3,Panthera leo,26
+1578,9/10/2017,operation,19,Lutra lutra,13
+1579,10/10/2017,vaccin,25,Elephas maximus,16
+1580,10/10/2017,operation,19,Pan troglodytes,28
+1581,10/10/2017,vaccin,10,Urocyon cinereoargenteus,7
+1582,10/10/2017,mise en quarantaine,27,Lutra lutra,11
+1583,10/10/2017,soins divers,26,Ursus maritimus,19
+1584,11/10/2017,soins divers,1,Pan troglodytes,26
+1585,11/10/2017,operation,11,Canis dingo,17
+1586,11/10/2017,soins divers,3,Equus caballus,13
+1587,11/10/2017,mise en quarantaine,11,Eunectes murinus,21
+1588,11/10/2017,mise en quarantaine,3,Prunella modularis,5
+1589,12/10/2017,platre,12,Elephas maximus,11
+1590,12/10/2017,vaccin,3,Falco peregrinus,2
+1591,12/10/2017,soins divers,3,Lynx rufus,18
+1592,12/10/2017,operation,30,Ailuropoda melanoleuca,4
+1593,12/10/2017,soins divers,19,Elephas maximus,15
+1594,12/10/2017,soins divers,11,Urocyon cinereoargenteus,9
+1595,12/10/2017,mise en quarantaine,30,Panthera leo,30
+1596,12/10/2017,platre,3,Rangifer tarandus,7
+1597,12/10/2017,vaccin,7,Lynx rufus,3
+1598,12/10/2017,vaccin,17,Panthera leo,38
+1599,12/10/2017,mise en quarantaine,27,Aptenodytes forsteri,9
+1600,13/10/2017,mise en quarantaine,29,Haliaeetus leucocephalus,20
+1601,13/10/2017,operation,30,Struthio camelus,26
+1602,13/10/2017,platre,29,Aptenodytes forsteri,46
+1603,13/10/2017,operation,29,Eunectes murinus,4
+1604,13/10/2017,vaccin,1,Struthio camelus,6
+1605,13/10/2017,mise en quarantaine,25,Urocyon cinereoargenteus,7
+1606,13/10/2017,mise en quarantaine,28,Bubo scandiacus,22
+1607,13/10/2017,operation,25,Pongo pygmaeus,13
+1608,13/10/2017,mise en quarantaine,12,Pan troglodytes,10
+1609,13/10/2017,soins divers,11,Falco peregrinus,19
+1610,13/10/2017,vaccin,12,Canis dingo,9
+1611,14/10/2017,vaccin,2,Panthera uncia,10
+1612,14/10/2017,platre,27,Ailurus fulgens,36
+1613,14/10/2017,soins divers,2,Haliaeetus leucocephalus,13
+1614,15/10/2017,vaccin,30,Panthera pardus,17
+1615,15/10/2017,soins divers,7,Ardea cinerea,5
+1616,15/10/2017,mise en quarantaine,30,Pongo pygmaeus,20
+1617,15/10/2017,soins divers,3,Elephas maximus,36
+1618,15/10/2017,mise en quarantaine,16,Aptenodytes forsteri,21
+1619,15/10/2017,operation,11,Aptenodytes forsteri,12
+1620,15/10/2017,operation,19,Ailurus fulgens,21
+1621,15/10/2017,operation,29,Pongo pygmaeus,25
+1622,15/10/2017,vaccin,27,Falco peregrinus,31
+1623,15/10/2017,operation,7,Elephas maximus,3
+1624,15/10/2017,platre,16,Falco peregrinus,27
+1625,16/10/2017,operation,26,Pongo pygmaeus,9
+1626,16/10/2017,soins divers,28,Lutra lutra,3
+1627,16/10/2017,soins divers,25,Pan troglodytes,16
+1628,16/10/2017,operation,30,Pongo pygmaeus,5
+1629,16/10/2017,platre,27,Pan troglodytes,8
+1630,17/10/2017,vaccin,28,Panthera leo,36
+1631,17/10/2017,platre,12,Pan troglodytes,28
+1632,18/10/2017,mise en quarantaine,1,Cervus canadensis,25
+1633,18/10/2017,mise en quarantaine,16,Lynx rufus,5
+1634,19/10/2017,platre,7,Elephas maximus,10
+1635,19/10/2017,platre,1,Hippopotamus amphibius,19
+1636,19/10/2017,operation,30,Urocyon cinereoargenteus,20
+1637,19/10/2017,operation,7,Panthera leo,36
+1638,19/10/2017,operation,30,Panthera leo,38
+1639,19/10/2017,vaccin,10,Bubo scandiacus,2
+1640,19/10/2017,vaccin,16,Haliaeetus leucocephalus,18
+1641,19/10/2017,platre,3,Eunectes murinus,5
+1642,19/10/2017,operation,25,Canis dingo,10
+1643,19/10/2017,soins divers,2,Ailurus fulgens,5
+1644,19/10/2017,mise en quarantaine,30,Canis dingo,18
+1645,19/10/2017,platre,29,Bubo scandiacus,9
+1646,19/10/2017,vaccin,3,Panthera leo,42
+1647,19/10/2017,vaccin,17,Felis silvestris,22
+1648,19/10/2017,mise en quarantaine,25,Hippopotamus amphibius,23
+1649,19/10/2017,soins divers,4,Urocyon cinereoargenteus,13
+1650,19/10/2017,platre,10,Pongo pygmaeus,3
+1651,19/10/2017,soins divers,11,Struthio camelus,8
+1652,19/10/2017,soins divers,7,Aptenodytes forsteri,28
+1653,20/10/2017,mise en quarantaine,7,Ailurus fulgens,26
+1654,20/10/2017,soins divers,17,Lynx rufus,16
+1655,20/10/2017,platre,25,Ursus maritimus,22
+1656,20/10/2017,platre,3,Pan troglodytes,17
+1657,20/10/2017,operation,19,Struthio camelus,25
+1658,20/10/2017,mise en quarantaine,11,Ursus maritimus,18
+1659,21/10/2017,mise en quarantaine,26,Felis silvestris,21
+1660,21/10/2017,soins divers,3,Struthio camelus,31
+1661,21/10/2017,platre,1,Haliaeetus leucocephalus,11
+1662,21/10/2017,mise en quarantaine,3,Panthera leo,19
+1663,22/10/2017,vaccin,2,Cervus canadensis,4
+1664,22/10/2017,platre,2,Hippopotamus amphibius,12
+1665,22/10/2017,platre,16,Pongo pygmaeus,32
+1666,22/10/2017,mise en quarantaine,12,Lynx rufus,22
+1667,22/10/2017,platre,26,Struthio camelus,22
+1668,22/10/2017,vaccin,16,Urocyon cinereoargenteus,3
+1669,22/10/2017,platre,26,Ardea cinerea,32
+1670,22/10/2017,mise en quarantaine,3,Panthera leo,40
+1671,22/10/2017,soins divers,3,Struthio camelus,33
+1672,22/10/2017,mise en quarantaine,17,Pongo pygmaeus,25
+1673,22/10/2017,soins divers,29,Falco peregrinus,15
+1674,22/10/2017,mise en quarantaine,28,Ailurus fulgens,18
+1675,22/10/2017,vaccin,26,Eunectes murinus,31
+1676,22/10/2017,soins divers,2,Ardea cinerea,9
+1677,23/10/2017,vaccin,10,Lutra lutra,10
+1678,23/10/2017,vaccin,11,Equus caballus,14
+1679,23/10/2017,mise en quarantaine,30,Bubo scandiacus,14
+1680,23/10/2017,vaccin,30,Ardea cinerea,38
+1681,23/10/2017,mise en quarantaine,11,Hippopotamus amphibius,3
+1682,24/10/2017,vaccin,2,Ursus maritimus,8
+1683,24/10/2017,operation,27,Ardea cinerea,38
+1684,24/10/2017,platre,29,Canis lupus,3
+1685,24/10/2017,platre,17,Canis lupus,2
+1686,24/10/2017,vaccin,28,Struthio camelus,13
+1687,24/10/2017,soins divers,30,Ursus maritimus,11
+1688,25/10/2017,mise en quarantaine,16,Rangifer tarandus,17
+1689,25/10/2017,operation,2,Prunella modularis,23
+1690,25/10/2017,mise en quarantaine,3,Ailurus fulgens,9
+1691,25/10/2017,platre,12,Panthera leo,13
+1692,25/10/2017,platre,2,Elephas maximus,10
+1693,25/10/2017,soins divers,16,Lynx rufus,17
+1694,25/10/2017,mise en quarantaine,27,Ailurus fulgens,7
+1695,25/10/2017,mise en quarantaine,25,Urocyon cinereoargenteus,11
+1696,25/10/2017,platre,2,Bubo scandiacus,4
+1697,25/10/2017,operation,28,Ardea cinerea,41
+1698,25/10/2017,mise en quarantaine,7,Falco peregrinus,28
+1699,25/10/2017,vaccin,16,Aptenodytes forsteri,19
+1700,25/10/2017,vaccin,1,Urocyon cinereoargenteus,13
+1701,25/10/2017,soins divers,10,Bubo scandiacus,11
+1702,25/10/2017,operation,19,Canis lupus,13
+1703,25/10/2017,operation,2,Pan troglodytes,17
+1704,25/10/2017,soins divers,16,Eunectes murinus,24
+1705,25/10/2017,mise en quarantaine,17,Pongo pygmaeus,12
+1706,25/10/2017,soins divers,16,Bubo scandiacus,32
+1707,26/10/2017,operation,11,Ailurus fulgens,17
+1708,26/10/2017,vaccin,2,Pongo pygmaeus,22
+1709,26/10/2017,platre,29,Struthio camelus,32
+1710,26/10/2017,vaccin,27,Elephas maximus,11
+1711,26/10/2017,vaccin,30,Equus caballus,13
+1712,26/10/2017,operation,17,Struthio camelus,40
+1713,27/10/2017,operation,29,Haliaeetus leucocephalus,12
+1714,27/10/2017,mise en quarantaine,4,Panthera uncia,27
+1715,27/10/2017,operation,1,Haliaeetus leucocephalus,23
+1716,27/10/2017,vaccin,28,Ardea cinerea,37
+1717,27/10/2017,platre,7,Canis lupus,24
+1718,27/10/2017,platre,3,Prunella modularis,6
+1719,27/10/2017,platre,12,Pan troglodytes,22
+1720,27/10/2017,platre,28,Panthera leo,18
+1721,28/10/2017,vaccin,2,Ailurus fulgens,27
+1722,28/10/2017,operation,28,Haliaeetus leucocephalus,18
+1723,28/10/2017,vaccin,7,Struthio camelus,3
+1724,28/10/2017,operation,2,Lynx rufus,6
+1725,28/10/2017,mise en quarantaine,27,Loxodonta africana,2
+1726,1/11/2017,soins divers,7,Lynx rufus,18
+1727,1/11/2017,operation,16,Struthio camelus,13
+1728,1/11/2017,vaccin,11,Ardea cinerea,21
+1729,1/11/2017,mise en quarantaine,27,Aptenodytes forsteri,6
+1730,1/11/2017,soins divers,4,Ailuropoda melanoleuca,5
+1731,1/11/2017,soins divers,27,Urocyon cinereoargenteus,13
+1732,1/11/2017,soins divers,17,Canis dingo,29
+1733,1/11/2017,vaccin,16,Giraffa camelopardalis,16
+1734,2/11/2017,operation,29,Panthera leo,16
+1735,2/11/2017,vaccin,30,Aptenodytes forsteri,10
+1736,2/11/2017,platre,26,Giraffa camelopardalis,10
+1737,2/11/2017,platre,29,Ailuropoda melanoleuca,8
+1738,2/11/2017,soins divers,3,Ursus maritimus,8
+1739,2/11/2017,vaccin,25,Bubo scandiacus,17
+1740,2/11/2017,vaccin,26,Giraffa camelopardalis,10
+1741,2/11/2017,soins divers,2,Urocyon cinereoargenteus,12
+1742,3/11/2017,platre,16,Pan troglodytes,18
+1743,3/11/2017,soins divers,30,Haliaeetus leucocephalus,18
+1744,3/11/2017,soins divers,12,Bubo scandiacus,15
+1745,3/11/2017,operation,4,Felis silvestris,16
+1746,4/11/2017,mise en quarantaine,25,Ardea cinerea,26
+1747,4/11/2017,soins divers,30,Ardea cinerea,20
+1748,5/11/2017,platre,30,Canis lupus,21
+1749,5/11/2017,vaccin,4,Pan troglodytes,1
+1750,5/11/2017,mise en quarantaine,27,Aptenodytes forsteri,5
+1751,5/11/2017,mise en quarantaine,28,Bubo scandiacus,22
+1752,5/11/2017,mise en quarantaine,11,Ailurus fulgens,39
+1753,5/11/2017,soins divers,17,Equus caballus,25
+1754,6/11/2017,operation,3,Rangifer tarandus,20
+1755,6/11/2017,mise en quarantaine,10,Prunella modularis,4
+1756,6/11/2017,operation,11,Bubo scandiacus,36
+1757,6/11/2017,soins divers,30,Struthio camelus,22
+1758,6/11/2017,vaccin,25,Hippopotamus amphibius,26
+1759,7/11/2017,platre,25,Equus caballus,8
+1760,8/11/2017,vaccin,10,Pan troglodytes,18
+1761,9/11/2017,soins divers,10,Panthera uncia,29
+1762,9/11/2017,operation,25,Ailurus fulgens,12
+1763,9/11/2017,mise en quarantaine,3,Ardea cinerea,37
+1764,9/11/2017,soins divers,19,Urocyon cinereoargenteus,11
+1765,9/11/2017,operation,27,Loxodonta africana,22
+1766,9/11/2017,mise en quarantaine,3,Felis silvestris,4
+1767,9/11/2017,vaccin,12,Pan troglodytes,27
+1768,10/11/2017,mise en quarantaine,30,Ailurus fulgens,36
+1769,10/11/2017,platre,16,Elephas maximus,16
+1770,10/11/2017,platre,3,Rangifer tarandus,12
+1771,10/11/2017,vaccin,29,Panthera uncia,8
+1772,10/11/2017,platre,16,Rangifer tarandus,19
+1773,10/11/2017,vaccin,16,Canis dingo,29
+1774,10/11/2017,operation,27,Pan troglodytes,1
+1775,10/11/2017,soins divers,27,Bubo scandiacus,11
+1776,10/11/2017,mise en quarantaine,26,Pongo pygmaeus,27
+1777,10/11/2017,soins divers,10,Ailurus fulgens,38
+1778,10/11/2017,soins divers,4,Pongo pygmaeus,21
+1779,10/11/2017,operation,17,Aptenodytes forsteri,48
+1780,11/11/2017,platre,3,Ursus maritimus,6
+1781,11/11/2017,platre,2,Canis dingo,12
+1782,12/11/2017,mise en quarantaine,12,Ailurus fulgens,4
+1783,12/11/2017,operation,2,Ursus maritimus,20
+1784,12/11/2017,mise en quarantaine,16,Panthera uncia,24
+1785,12/11/2017,platre,25,Giraffa camelopardalis,22
+1786,12/11/2017,platre,2,Ailurus fulgens,33
+1787,12/11/2017,platre,7,Elephas maximus,14
+1788,12/11/2017,platre,3,Pan troglodytes,10
+1789,12/11/2017,platre,16,Ardea cinerea,34
+1790,12/11/2017,operation,12,Giraffa camelopardalis,32
+1791,12/11/2017,mise en quarantaine,1,Panthera pardus,1
+1792,12/11/2017,mise en quarantaine,3,Rangifer tarandus,22
+1793,12/11/2017,platre,29,Rangifer tarandus,11
+1794,12/11/2017,vaccin,7,Pongo pygmaeus,2
+1795,12/11/2017,mise en quarantaine,1,Ardea cinerea,26
+1796,12/11/2017,platre,12,Ardea cinerea,23
+1797,12/11/2017,platre,19,Hippopotamus amphibius,19
+1798,12/11/2017,operation,4,Ursus maritimus,29
+1799,12/11/2017,platre,1,Aptenodytes forsteri,30
+1800,12/11/2017,mise en quarantaine,17,Bubo scandiacus,14
+1801,12/11/2017,platre,26,Panthera pardus,15
+1802,12/11/2017,soins divers,1,Elephas maximus,21
+1803,13/11/2017,mise en quarantaine,3,Panthera leo,38
+1804,13/11/2017,operation,2,Panthera pardus,18
+1805,13/11/2017,platre,29,Ardea cinerea,10
+1806,13/11/2017,vaccin,12,Canis lupus,8
+1807,14/11/2017,vaccin,25,Lynx rufus,6
+1808,14/11/2017,mise en quarantaine,10,Equus caballus,33
+1809,14/11/2017,soins divers,11,Pan troglodytes,24
+1810,14/11/2017,mise en quarantaine,12,Aptenodytes forsteri,48
+1811,14/11/2017,soins divers,25,Aptenodytes forsteri,45
+1812,14/11/2017,vaccin,25,Equus caballus,23
+1813,14/11/2017,platre,27,Lynx rufus,20
+1814,14/11/2017,operation,30,Haliaeetus leucocephalus,5
+1815,14/11/2017,operation,2,Cervus canadensis,25
+1816,14/11/2017,vaccin,11,Eunectes murinus,2
+1817,14/11/2017,mise en quarantaine,30,Urocyon cinereoargenteus,11
+1818,14/11/2017,operation,27,Ailurus fulgens,27
+1819,14/11/2017,mise en quarantaine,4,Panthera uncia,36
+1820,14/11/2017,vaccin,25,Prunella modularis,12
+1821,15/11/2017,mise en quarantaine,3,Cervus canadensis,29
+1822,15/11/2017,vaccin,30,Elephas maximus,25
+1823,15/11/2017,platre,30,Felis silvestris,25
+1824,16/11/2017,operation,28,Hippopotamus amphibius,33
+1825,16/11/2017,platre,4,Giraffa camelopardalis,3
+1826,16/11/2017,platre,25,Equus caballus,9
+1827,16/11/2017,platre,26,Canis dingo,12
+1828,16/11/2017,soins divers,26,Panthera uncia,9
+1829,16/11/2017,platre,3,Panthera leo,19
+1830,16/11/2017,mise en quarantaine,28,Bubo scandiacus,34
+1831,16/11/2017,mise en quarantaine,27,Ailurus fulgens,19
+1832,16/11/2017,soins divers,16,Struthio camelus,26
+1833,16/11/2017,vaccin,17,Pongo pygmaeus,8
+1834,16/11/2017,soins divers,12,Ursus maritimus,33
+1835,16/11/2017,mise en quarantaine,19,Loxodonta africana,1
+1836,17/11/2017,soins divers,2,Elephas maximus,30
+1837,17/11/2017,vaccin,10,Canis lupus,1
+1838,17/11/2017,vaccin,7,Felis silvestris,15
+1839,17/11/2017,vaccin,25,Aptenodytes forsteri,43
+1840,17/11/2017,operation,26,Panthera tigris,3
+1841,17/11/2017,vaccin,12,Panthera uncia,22
+1842,17/11/2017,operation,28,Ailurus fulgens,19
+1843,17/11/2017,soins divers,2,Eunectes murinus,4
+1844,17/11/2017,platre,30,Haliaeetus leucocephalus,3
+1845,17/11/2017,operation,7,Ailurus fulgens,39
+1846,17/11/2017,soins divers,1,Pongo pygmaeus,33
+1847,17/11/2017,operation,1,Urocyon cinereoargenteus,12
+1848,17/11/2017,platre,28,Panthera uncia,19
+1849,17/11/2017,operation,1,Aptenodytes forsteri,30
+1850,17/11/2017,vaccin,10,Ardea cinerea,5
+1851,17/11/2017,mise en quarantaine,17,Bubo scandiacus,30
+1852,18/11/2017,soins divers,11,Ursus maritimus,19
+1853,18/11/2017,vaccin,27,Ursus maritimus,14
+1854,18/11/2017,operation,25,Haliaeetus leucocephalus,8
+1855,18/11/2017,operation,12,Cervus canadensis,14
+1856,19/11/2017,vaccin,19,Panthera leo,12
+1857,19/11/2017,mise en quarantaine,17,Panthera tigris,13
+1858,19/11/2017,platre,25,Pan troglodytes,37
+1859,19/11/2017,operation,3,Aptenodytes forsteri,14
+1860,19/11/2017,operation,11,Panthera tigris,15
+1861,19/11/2017,operation,28,Ailurus fulgens,27
+1862,19/11/2017,vaccin,3,Panthera uncia,20
+1863,19/11/2017,platre,3,Haliaeetus leucocephalus,14
+1864,20/11/2017,operation,16,Cervus canadensis,19
+1865,20/11/2017,platre,7,Urocyon cinereoargenteus,6
+1866,20/11/2017,platre,7,Cervus canadensis,14
+1867,20/11/2017,vaccin,1,Bubo scandiacus,34
+1868,20/11/2017,soins divers,26,Cervus canadensis,19
+1869,21/11/2017,vaccin,12,Lutra lutra,21
+1870,21/11/2017,platre,12,Pongo pygmaeus,21
+1871,21/11/2017,mise en quarantaine,17,Panthera uncia,3
+1872,21/11/2017,operation,19,Panthera uncia,2
+1873,22/11/2017,mise en quarantaine,16,Pongo pygmaeus,4
+1874,22/11/2017,platre,11,Lynx rufus,4
+1875,23/11/2017,operation,25,Pan troglodytes,8
+1876,23/11/2017,soins divers,1,Elephas maximus,7
+1877,24/11/2017,mise en quarantaine,4,Hippopotamus amphibius,21
+1878,24/11/2017,soins divers,12,Prunella modularis,4
+1879,24/11/2017,vaccin,28,Eunectes murinus,23
+1880,24/11/2017,soins divers,7,Struthio camelus,36
+1881,24/11/2017,soins divers,2,Prunella modularis,5
+1882,25/11/2017,soins divers,29,Ardea cinerea,7
+1883,25/11/2017,soins divers,4,Ailuropoda melanoleuca,13
+1884,25/11/2017,operation,27,Ailurus fulgens,27
+1885,25/11/2017,platre,28,Ailurus fulgens,24
+1886,25/11/2017,platre,16,Prunella modularis,16
+1887,25/11/2017,mise en quarantaine,10,Pan troglodytes,10
+1888,25/11/2017,platre,29,Hippopotamus amphibius,20
+1889,26/11/2017,soins divers,16,Hippopotamus amphibius,12
+1890,26/11/2017,mise en quarantaine,1,Pongo pygmaeus,16
+1891,26/11/2017,platre,12,Ailuropoda melanoleuca,28
+1892,26/11/2017,vaccin,16,Giraffa camelopardalis,4
+1893,26/11/2017,mise en quarantaine,4,Ursus maritimus,28
+1894,26/11/2017,mise en quarantaine,30,Giraffa camelopardalis,11
+1895,26/11/2017,mise en quarantaine,28,Giraffa camelopardalis,15
+1896,26/11/2017,soins divers,30,Canis dingo,3
+1897,26/11/2017,mise en quarantaine,3,Panthera tigris,8
+1898,26/11/2017,operation,19,Aptenodytes forsteri,13
+1899,26/11/2017,mise en quarantaine,3,Ailurus fulgens,37
+1900,26/11/2017,operation,10,Panthera uncia,3
+1901,26/11/2017,mise en quarantaine,4,Elephas maximus,25
+1902,27/11/2017,platre,17,Ailurus fulgens,27
+1903,27/11/2017,vaccin,29,Prunella modularis,3
+1904,27/11/2017,platre,28,Prunella modularis,8
+1905,27/11/2017,mise en quarantaine,25,Prunella modularis,11
+1906,28/11/2017,platre,3,Giraffa camelopardalis,28
+1907,28/11/2017,mise en quarantaine,30,Lynx rufus,9
+1908,28/11/2017,vaccin,3,Pongo pygmaeus,19
+1909,28/11/2017,platre,27,Panthera leo,2
+1910,28/11/2017,operation,16,Panthera tigris,2
+1911,28/11/2017,mise en quarantaine,12,Elephas maximus,26
+1912,28/11/2017,soins divers,3,Ursus maritimus,14
+1913,28/11/2017,mise en quarantaine,19,Pongo pygmaeus,8
+1914,28/11/2017,vaccin,29,Hippopotamus amphibius,10
+1915,28/11/2017,operation,4,Equus caballus,18
+1916,28/11/2017,vaccin,10,Elephas maximus,8
+1917,28/11/2017,operation,17,Canis lupus,1
+1918,28/11/2017,vaccin,1,Aptenodytes forsteri,44
+1919,28/11/2017,soins divers,19,Canis lupus,13
+1920,28/11/2017,operation,10,Rangifer tarandus,15
+1921,28/11/2017,vaccin,2,Giraffa camelopardalis,1
+1922,28/11/2017,vaccin,19,Lynx rufus,14
+1923,1/12/2017,vaccin,17,Canis dingo,15
+1924,1/12/2017,soins divers,29,Loxodonta africana,20
+1925,1/12/2017,soins divers,7,Felis silvestris,25
+1926,1/12/2017,operation,19,Rangifer tarandus,11
+1927,1/12/2017,soins divers,12,Canis lupus,5
+1928,1/12/2017,platre,3,Urocyon cinereoargenteus,4
+1929,1/12/2017,mise en quarantaine,25,Cervus canadensis,17
+1930,2/12/2017,mise en quarantaine,11,Bubo scandiacus,35
+1931,2/12/2017,soins divers,19,Cervus canadensis,32
+1932,2/12/2017,soins divers,27,Ailurus fulgens,7
+1933,2/12/2017,platre,12,Haliaeetus leucocephalus,3
+1934,2/12/2017,soins divers,30,Rangifer tarandus,18
+1935,2/12/2017,mise en quarantaine,29,Urocyon cinereoargenteus,14
+1936,3/12/2017,operation,10,Aptenodytes forsteri,8
+1937,3/12/2017,soins divers,26,Pan troglodytes,2
+1938,3/12/2017,vaccin,29,Falco peregrinus,25
+1939,3/12/2017,mise en quarantaine,26,Ursus maritimus,34
+1940,3/12/2017,operation,30,Panthera leo,37
+1941,3/12/2017,platre,10,Canis lupus,10
+1942,4/12/2017,soins divers,26,Panthera uncia,12
+1943,5/12/2017,mise en quarantaine,27,Aptenodytes forsteri,11
+1944,5/12/2017,mise en quarantaine,26,Aptenodytes forsteri,46
+1945,5/12/2017,mise en quarantaine,28,Struthio camelus,15
+1946,5/12/2017,platre,28,Hippopotamus amphibius,26
+1947,5/12/2017,operation,28,Felis silvestris,23
+1948,6/12/2017,soins divers,29,Giraffa camelopardalis,19
+1949,6/12/2017,operation,19,Panthera pardus,14
+1950,7/12/2017,platre,26,Loxodonta africana,8
+1951,7/12/2017,platre,10,Hippopotamus amphibius,19
+1952,7/12/2017,operation,19,Equus caballus,1
+1953,7/12/2017,soins divers,26,Falco peregrinus,6
+1954,8/12/2017,vaccin,10,Canis dingo,27
+1955,8/12/2017,operation,17,Lutra lutra,12
+1956,8/12/2017,platre,17,Giraffa camelopardalis,2
+1957,8/12/2017,vaccin,7,Ardea cinerea,15
+1958,9/12/2017,platre,16,Ursus maritimus,21
+1959,9/12/2017,vaccin,30,Panthera leo,40
+1960,9/12/2017,soins divers,10,Urocyon cinereoargenteus,15
+1961,9/12/2017,soins divers,26,Eunectes murinus,12
+1962,9/12/2017,operation,30,Prunella modularis,23
+1963,10/12/2017,vaccin,1,Pan troglodytes,32
+1964,10/12/2017,mise en quarantaine,30,Eunectes murinus,6
+1965,11/12/2017,operation,7,Hippopotamus amphibius,14
+1966,12/12/2017,mise en quarantaine,4,Panthera pardus,12
+1967,12/12/2017,mise en quarantaine,4,Elephas maximus,39
+1968,12/12/2017,mise en quarantaine,11,Struthio camelus,44
+1969,12/12/2017,platre,26,Ursus maritimus,26
+1970,12/12/2017,platre,29,Ailurus fulgens,8
+1971,12/12/2017,operation,10,Bubo scandiacus,19
+1972,12/12/2017,soins divers,12,Struthio camelus,28
+1973,12/12/2017,operation,29,Lutra lutra,27
+1974,12/12/2017,platre,1,Hippopotamus amphibius,15
+1975,12/12/2017,vaccin,11,Equus caballus,33
+1976,12/12/2017,soins divers,11,Cervus canadensis,9
+1977,12/12/2017,vaccin,1,Urocyon cinereoargenteus,29
+1978,12/12/2017,operation,19,Falco peregrinus,23
+1979,12/12/2017,mise en quarantaine,4,Struthio camelus,28
+1980,13/12/2017,vaccin,3,Cervus canadensis,2
+1981,13/12/2017,operation,11,Aptenodytes forsteri,34
+1982,13/12/2017,platre,25,Pan troglodytes,15
+1983,13/12/2017,operation,10,Lynx rufus,22
+1984,14/12/2017,mise en quarantaine,7,Felis silvestris,16
+1985,15/12/2017,soins divers,11,Pan troglodytes,28
+1986,15/12/2017,soins divers,11,Felis silvestris,29
+1987,15/12/2017,soins divers,2,Felis silvestris,28
+1988,16/12/2017,vaccin,19,Loxodonta africana,19
+1989,16/12/2017,vaccin,10,Urocyon cinereoargenteus,12
+1990,16/12/2017,operation,7,Elephas maximus,14
+1991,16/12/2017,mise en quarantaine,11,Rangifer tarandus,3
+1992,16/12/2017,soins divers,10,Ailurus fulgens,11
+1993,17/12/2017,mise en quarantaine,17,Pan troglodytes,37
+1994,18/12/2017,mise en quarantaine,25,Giraffa camelopardalis,14
+1995,18/12/2017,soins divers,11,Elephas maximus,18
+1996,18/12/2017,mise en quarantaine,17,Panthera pardus,16
+1997,19/12/2017,vaccin,7,Prunella modularis,23
+1998,19/12/2017,platre,28,Ailurus fulgens,38
+1999,20/12/2017,mise en quarantaine,19,Ardea cinerea,39
+2000,20/12/2017,vaccin,7,Giraffa camelopardalis,14
+2001,21/12/2017,operation,1,Rangifer tarandus,4
+2002,21/12/2017,platre,7,Haliaeetus leucocephalus,12
+2003,21/12/2017,vaccin,3,Equus caballus,8
+2004,21/12/2017,mise en quarantaine,28,Urocyon cinereoargenteus,13
+2005,21/12/2017,soins divers,2,Panthera leo,20
+2006,21/12/2017,vaccin,10,Pongo pygmaeus,33
+2007,21/12/2017,operation,26,Lutra lutra,2
+2008,22/12/2017,operation,3,Panthera uncia,15
+2009,23/12/2017,vaccin,27,Panthera tigris,4
+2010,23/12/2017,vaccin,17,Urocyon cinereoargenteus,24
+2011,23/12/2017,soins divers,25,Falco peregrinus,15
+2012,23/12/2017,vaccin,1,Pan troglodytes,10
+2013,23/12/2017,mise en quarantaine,12,Elephas maximus,11
+2014,23/12/2017,soins divers,26,Canis dingo,18
+2015,24/12/2017,platre,7,Panthera uncia,33
+2016,24/12/2017,platre,7,Giraffa camelopardalis,30
+2017,25/12/2017,vaccin,12,Pongo pygmaeus,26
+2018,25/12/2017,vaccin,11,Giraffa camelopardalis,24
+2019,26/12/2017,vaccin,1,Felis silvestris,33
+2020,27/12/2017,mise en quarantaine,4,Canis dingo,13
+2021,27/12/2017,vaccin,28,Rangifer tarandus,1
+2022,28/12/2017,platre,16,Urocyon cinereoargenteus,11
+2023,1/1/2018,mise en quarantaine,17,Ailurus fulgens,14
+2024,2/1/2018,soins divers,10,Rangifer tarandus,20
+2025,3/1/2018,operation,16,Ailuropoda melanoleuca,17
+2026,3/1/2018,vaccin,7,Ailurus fulgens,10
+2027,3/1/2018,soins divers,26,Ursus maritimus,15
+2028,3/1/2018,operation,26,Canis dingo,22
+2029,3/1/2018,operation,7,Loxodonta africana,3
+2030,3/1/2018,operation,28,Cervus canadensis,8
+2031,3/1/2018,operation,7,Haliaeetus leucocephalus,3
+2032,3/1/2018,mise en quarantaine,26,Panthera uncia,1
+2033,3/1/2018,soins divers,26,Bubo scandiacus,11
+2034,4/1/2018,operation,25,Ailuropoda melanoleuca,5
+2035,4/1/2018,vaccin,1,Ailuropoda melanoleuca,26
+2036,4/1/2018,operation,29,Panthera uncia,14
+2037,4/1/2018,operation,25,Rangifer tarandus,19
+2038,5/1/2018,platre,10,Haliaeetus leucocephalus,18
+2039,6/1/2018,platre,19,Struthio camelus,43
+2040,6/1/2018,soins divers,16,Falco peregrinus,22
+2041,6/1/2018,soins divers,27,Lutra lutra,21
+2042,6/1/2018,platre,30,Ardea cinerea,29
+2043,6/1/2018,vaccin,2,Ailuropoda melanoleuca,26
+2044,7/1/2018,platre,28,Bubo scandiacus,36
+2045,8/1/2018,platre,11,Prunella modularis,4
+2046,8/1/2018,vaccin,19,Ailurus fulgens,33
+2047,8/1/2018,platre,26,Ailurus fulgens,7
+2048,8/1/2018,mise en quarantaine,3,Aptenodytes forsteri,41
+2049,8/1/2018,vaccin,30,Ailurus fulgens,15
+2050,9/1/2018,operation,2,Cervus canadensis,26
+2051,9/1/2018,vaccin,12,Prunella modularis,8
+2052,9/1/2018,mise en quarantaine,3,Rangifer tarandus,4
+2053,10/1/2018,vaccin,4,Prunella modularis,8
+2054,10/1/2018,operation,1,Panthera uncia,16
+2055,11/1/2018,vaccin,29,Lynx rufus,6
+2056,12/1/2018,vaccin,26,Giraffa camelopardalis,16
+2057,12/1/2018,operation,1,Rangifer tarandus,9
+2058,12/1/2018,soins divers,2,Felis silvestris,25
+2059,12/1/2018,soins divers,7,Aptenodytes forsteri,6
+2060,12/1/2018,mise en quarantaine,10,Aptenodytes forsteri,45
+2061,12/1/2018,mise en quarantaine,29,Cervus canadensis,10
+2062,12/1/2018,platre,11,Ailurus fulgens,38
+2063,13/1/2018,mise en quarantaine,2,Felis silvestris,33
+2064,13/1/2018,vaccin,19,Ailurus fulgens,36
+2065,14/1/2018,mise en quarantaine,27,Bubo scandiacus,11
+2066,14/1/2018,soins divers,27,Panthera leo,44
+2067,14/1/2018,vaccin,12,Rangifer tarandus,23
+2068,14/1/2018,platre,17,Canis dingo,8
+2069,14/1/2018,operation,10,Elephas maximus,14
+2070,14/1/2018,soins divers,10,Haliaeetus leucocephalus,12
+2071,14/1/2018,vaccin,11,Pan troglodytes,5
+2072,14/1/2018,mise en quarantaine,3,Hippopotamus amphibius,20
+2073,14/1/2018,platre,7,Rangifer tarandus,3
+2074,14/1/2018,vaccin,16,Panthera pardus,2
+2075,14/1/2018,operation,17,Giraffa camelopardalis,10
+2076,14/1/2018,platre,27,Felis silvestris,28
+2077,14/1/2018,operation,10,Giraffa camelopardalis,13
+2078,14/1/2018,soins divers,16,Ardea cinerea,24
+2079,15/1/2018,mise en quarantaine,3,Bubo scandiacus,35
+2080,16/1/2018,mise en quarantaine,26,Elephas maximus,17
+2081,16/1/2018,mise en quarantaine,28,Lutra lutra,10
+2082,16/1/2018,vaccin,3,Bubo scandiacus,28
+2083,16/1/2018,soins divers,11,Loxodonta africana,17
+2084,16/1/2018,mise en quarantaine,4,Struthio camelus,38
+2085,16/1/2018,platre,27,Struthio camelus,19
+2086,17/1/2018,vaccin,19,Aptenodytes forsteri,30
+2087,17/1/2018,mise en quarantaine,11,Felis silvestris,21
+2088,17/1/2018,operation,19,Lutra lutra,27
+2089,18/1/2018,vaccin,30,Ailurus fulgens,6
+2090,18/1/2018,platre,28,Rangifer tarandus,24
+2091,18/1/2018,operation,29,Ailuropoda melanoleuca,8
+2092,18/1/2018,platre,30,Pan troglodytes,18
+2093,18/1/2018,operation,16,Ailurus fulgens,9
+2094,19/1/2018,operation,4,Elephas maximus,8
+2095,19/1/2018,vaccin,2,Panthera pardus,10
+2096,19/1/2018,operation,25,Hippopotamus amphibius,8
+2097,19/1/2018,soins divers,11,Panthera uncia,3
+2098,20/1/2018,operation,17,Aptenodytes forsteri,8
+2099,21/1/2018,vaccin,27,Pongo pygmaeus,20
+2100,22/1/2018,vaccin,17,Struthio camelus,16
+2101,22/1/2018,soins divers,19,Eunectes murinus,26
+2102,22/1/2018,platre,7,Pan troglodytes,13
+2103,22/1/2018,vaccin,4,Cervus canadensis,2
+2104,22/1/2018,platre,12,Struthio camelus,14
+2105,22/1/2018,vaccin,10,Haliaeetus leucocephalus,18
+2106,22/1/2018,vaccin,19,Aptenodytes forsteri,16
+2107,23/1/2018,vaccin,12,Panthera leo,1
+2108,24/1/2018,soins divers,16,Ursus maritimus,15
+2109,24/1/2018,vaccin,19,Pan troglodytes,14
+2110,24/1/2018,mise en quarantaine,26,Panthera tigris,3
+2111,24/1/2018,platre,19,Aptenodytes forsteri,9
+2112,24/1/2018,platre,1,Ailuropoda melanoleuca,10
+2113,24/1/2018,vaccin,30,Bubo scandiacus,35
+2114,25/1/2018,soins divers,3,Bubo scandiacus,30
+2115,25/1/2018,operation,27,Urocyon cinereoargenteus,11
+2116,25/1/2018,soins divers,4,Ailurus fulgens,8
+2117,25/1/2018,platre,11,Bubo scandiacus,10
+2118,25/1/2018,operation,2,Struthio camelus,20
+2119,25/1/2018,operation,28,Panthera pardus,6
+2120,25/1/2018,platre,25,Panthera tigris,4
+2121,25/1/2018,vaccin,2,Panthera uncia,29
+2122,25/1/2018,soins divers,2,Giraffa camelopardalis,14
+2123,25/1/2018,mise en quarantaine,4,Ardea cinerea,15
+2124,25/1/2018,operation,27,Aptenodytes forsteri,37
+2125,25/1/2018,vaccin,1,Eunectes murinus,17
+2126,25/1/2018,operation,25,Panthera tigris,13
+2127,25/1/2018,mise en quarantaine,26,Falco peregrinus,19
+2128,25/1/2018,mise en quarantaine,26,Aptenodytes forsteri,29
+2129,25/1/2018,mise en quarantaine,19,Bubo scandiacus,33
+2130,25/1/2018,soins divers,2,Elephas maximus,20
+2131,25/1/2018,vaccin,17,Ursus maritimus,35
+2132,25/1/2018,mise en quarantaine,27,Rangifer tarandus,25
+2133,26/1/2018,vaccin,4,Panthera pardus,6
+2134,26/1/2018,soins divers,11,Pongo pygmaeus,16
+2135,26/1/2018,mise en quarantaine,1,Elephas maximus,9
+2136,27/1/2018,platre,26,Haliaeetus leucocephalus,27
+2137,27/1/2018,mise en quarantaine,28,Lutra lutra,19
+2138,27/1/2018,soins divers,7,Aptenodytes forsteri,30
+2139,27/1/2018,operation,11,Aptenodytes forsteri,9
+2140,27/1/2018,vaccin,12,Ailurus fulgens,8
+2141,28/1/2018,platre,11,Bubo scandiacus,19
+2142,28/1/2018,operation,11,Rangifer tarandus,1
+2143,28/1/2018,platre,17,Giraffa camelopardalis,26
+2144,28/1/2018,mise en quarantaine,30,Panthera uncia,30
+2145,28/1/2018,vaccin,12,Aptenodytes forsteri,11
+2146,28/1/2018,operation,29,Aptenodytes forsteri,43
+2147,28/1/2018,platre,11,Pongo pygmaeus,12
+2148,28/1/2018,soins divers,4,Struthio camelus,22
+2149,1/2/2018,vaccin,2,Panthera uncia,10
+2150,1/2/2018,vaccin,3,Prunella modularis,24
+2151,2/2/2018,vaccin,16,Panthera uncia,22
+2152,2/2/2018,vaccin,2,Bubo scandiacus,2
+2153,2/2/2018,operation,12,Giraffa camelopardalis,9
+2154,2/2/2018,operation,12,Pongo pygmaeus,33
+2155,2/2/2018,mise en quarantaine,30,Loxodonta africana,2
+2156,2/2/2018,mise en quarantaine,27,Equus caballus,4
+2157,2/2/2018,soins divers,27,Haliaeetus leucocephalus,4
+2158,3/2/2018,mise en quarantaine,1,Prunella modularis,24
+2159,3/2/2018,platre,29,Hippopotamus amphibius,19
+2160,3/2/2018,operation,10,Pan troglodytes,17
+2161,3/2/2018,operation,19,Aptenodytes forsteri,32
+2162,3/2/2018,vaccin,19,Hippopotamus amphibius,34
+2163,3/2/2018,platre,17,Felis silvestris,17
+2164,3/2/2018,vaccin,25,Rangifer tarandus,5
+2165,3/2/2018,vaccin,16,Ursus maritimus,11
+2166,3/2/2018,mise en quarantaine,26,Pongo pygmaeus,8
+2167,3/2/2018,soins divers,27,Lynx rufus,3
+2168,3/2/2018,mise en quarantaine,11,Eunectes murinus,17
+2169,3/2/2018,soins divers,30,Panthera tigris,6
+2170,3/2/2018,platre,25,Lynx rufus,3
+2171,4/2/2018,platre,3,Ardea cinerea,13
+2172,4/2/2018,platre,26,Lutra lutra,28
+2173,4/2/2018,operation,27,Aptenodytes forsteri,42
+2174,4/2/2018,platre,10,Struthio camelus,30
+2175,5/2/2018,platre,10,Lynx rufus,12
+2176,6/2/2018,vaccin,17,Ursus maritimus,15
+2177,6/2/2018,operation,2,Eunectes murinus,8
+2178,6/2/2018,mise en quarantaine,19,Bubo scandiacus,32
+2179,6/2/2018,operation,1,Bubo scandiacus,35
+2180,6/2/2018,platre,27,Hippopotamus amphibius,25
+2181,6/2/2018,vaccin,26,Falco peregrinus,26
+2182,6/2/2018,platre,3,Prunella modularis,19
+2183,6/2/2018,operation,25,Ursus maritimus,9
+2184,6/2/2018,soins divers,2,Ursus maritimus,15
+2185,6/2/2018,soins divers,12,Ailuropoda melanoleuca,17
+2186,6/2/2018,soins divers,26,Loxodonta africana,20
+2187,6/2/2018,operation,30,Ailurus fulgens,21
+2188,7/2/2018,vaccin,7,Panthera pardus,15
+2189,7/2/2018,operation,27,Elephas maximus,38
+2190,7/2/2018,soins divers,3,Eunectes murinus,31
+2191,7/2/2018,mise en quarantaine,4,Ailurus fulgens,36
+2192,8/2/2018,mise en quarantaine,17,Giraffa camelopardalis,32
+2193,8/2/2018,vaccin,29,Urocyon cinereoargenteus,22
+2194,8/2/2018,vaccin,10,Ardea cinerea,40
+2195,8/2/2018,platre,3,Pongo pygmaeus,31
+2196,8/2/2018,soins divers,28,Panthera pardus,4
+2197,8/2/2018,vaccin,25,Struthio camelus,18
+2198,8/2/2018,platre,27,Equus caballus,33

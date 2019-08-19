@@ -1,0 +1,51 @@
+n_enclos (int), nom_climat (str), taille (int)
+1,Forêt,236
+2,Forêt Tropicale,280
+3,Montagne,161
+4,Plaine,388
+5,Savane,158
+6,Banquise,118
+7,Forêt,3
+8,Forêt Tropicale,67
+9,Montagne,50
+10,Plaine,113
+11,Savane,378
+12,Banquise,453
+13,Forêt,381
+14,Forêt Tropicale,99
+15,Montagne,279
+16,Plaine,487
+17,Savane,93
+18,Banquise,21
+19,Forêt,140
+20,Forêt Tropicale,240
+21,Montagne,383
+22,Plaine,457
+23,Savane,1
+24,Banquise,247
+25,Forêt,355
+26,Forêt Tropicale,337
+27,Montagne,200
+28,Plaine,133
+29,Savane,348
+30,Banquise,250
+31,Forêt,432
+32,Forêt Tropicale,322
+33,Montagne,67
+34,Plaine,430
+35,Savane,272
+36,Banquise,432
+37,Forêt,396
+38,Forêt Tropicale,462
+39,Montagne,89
+40,Plaine,206
+41,Savane,83
+42,Banquise,475
+43,Forêt,318
+44,Forêt Tropicale,459
+45,Montagne,476
+46,Plaine,466
+47,Savane,18
+48,Banquise,153
+49,Forêt,216
+50,Forêt Tropicale,316

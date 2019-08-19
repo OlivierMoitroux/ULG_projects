@@ -1,0 +1,18 @@
+n_registre (int), n_licence (int), specialite (str)
+1,637437321,pandas
+2,515114611,oiseaux
+3,581169383,singes
+4,802397058,singes
+7,974095710,chirurgie
+10,176359920,pandas
+11,509222596,chirurgie
+12,632580724,singes
+16,941983417,pandas
+17,334444175,singes
+19,321899127,singes
+25,632486086,chirurgie
+26,466796062,singes
+27,886554792,oiseaux
+28,652310120,singes
+29,463479417,pandas
+30,629244977,pandas

@@ -1,0 +1,95 @@
+nom_latin (str), n_puce (int), nom_institution (str)
+Loxodonta africana,1,Parc National du Nord-Est du Groenland
+Ardea cinerea,1,Zoo d'Anvers
+Bubo scandiacus,1,Pairi Daiza
+Pongo pygmaeus,2,Institut Zoologique de Stockholm
+Pongo pygmaeus,3,Parc National du Nord-Est du Groenland
+Lutra lutra,2,Parc National des Virunga
+Prunella modularis,1,Zoo d'Anvers
+Loxodonta africana,2,Parc National du Nord-Est du Groenland
+Cervus canadensis,2,Parc National des Virunga
+Rangifer tarandus,2,Parc National du Nord-Est du Groenland
+Felis silvestris,4,Australia Natural Reserve
+Lutra lutra,5,Zoo d'Anvers
+Ailurus fulgens,4,Pairi Daiza
+Elephas maximus,7,Parc National des Virunga
+Aptenodytes forsteri,5,Parc Naturel de Bolivie
+Loxodonta africana,3,Parc National du Nord-Est du Groenland
+Falco peregrinus,3,Parc Naturel de Bolivie
+Giraffa camelopardalis,6,Réserve du Texas
+Pongo pygmaeus,7,Parc National du Nord-Est du Groenland
+Rangifer tarandus,9,Parc National du Nord-Est du Groenland
+Ailuropoda melanoleuca,7,Pairi Daiza
+Haliaeetus leucocephalus,7,Bifengxia Panda Base
+Pongo pygmaeus,8,Parc Naturel de Bolivie
+Panthera leo,9,Zoo d'Anvers
+Prunella modularis,6,Parc Naturel de Bolivie
+Lutra lutra,10,Parc National des Virunga
+Cervus canadensis,8,Réserve du Texas
+Lynx rufus,10,Institut Zoologique de Stockholm
+Canis dingo,7,Parc National du Nord-Est du Groenland
+Rangifer tarandus,12,Bifengxia Panda Base
+Urocyon cinereoargenteus,12,Institut Zoologique de Stockholm
+Bubo scandiacus,10,Réserve du Texas
+Panthera pardus,8,Parc National du Nord-Est du Groenland
+Lynx rufus,13,Institut Zoologique de Stockholm
+Giraffa camelopardalis,13,Pairi Daiza
+Pongo pygmaeus,15,Australia Natural Reserve
+Elephas maximus,14,Australia Natural Reserve
+Giraffa camelopardalis,15,Réserve du Texas
+Ursus maritimus,15,Parc Naturel de Bolivie
+Panthera leo,18,Parc de Merlet
+Aptenodytes forsteri,21,Réserve du Texas
+Panthera leo,20,Australia Natural Reserve
+Bubo scandiacus,13,Parc National du Nord-Est du Groenland
+Pan troglodytes,7,Parc de Merlet
+Loxodonta africana,9,Pairi Daiza
+Eunectes murinus,7,Réserve du Texas
+Elephas maximus,24,Australia Natural Reserve
+Pan troglodytes,12,Réserve du Texas
+Falco peregrinus,10,Bifengxia Panda Base
+Pan troglodytes,14,Parc de Merlet
+Falco peregrinus,12,Parc National du Nord-Est du Groenland
+Panthera pardus,12,Pairi Daiza
+Lynx rufus,14,Parc Naturel de Bolivie
+Elephas maximus,26,Réserve du Texas
+Panthera tigris,11,Parc Naturel de Bolivie
+Felis silvestris,22,Réserve du Texas
+Hippopotamus amphibius,24,Bifengxia Panda Base
+Panthera leo,31,Parc National des Virunga
+Ursus maritimus,23,Parc de Merlet
+Falco peregrinus,19,Réserve du Texas
+Ailurus fulgens,20,Bifengxia Panda Base
+Bubo scandiacus,24,Réserve du Texas
+Aptenodytes forsteri,35,Parc de Merlet
+Eunectes murinus,21,Parc de Merlet
+Falco peregrinus,22,Parc Naturel de Bolivie
+Falco peregrinus,23,Parc National des Virunga
+Equus caballus,25,Parc Naturel de Bolivie
+Bubo scandiacus,27,Parc de Merlet
+Ailurus fulgens,30,Bifengxia Panda Base
+Pan troglodytes,33,Zoo d'Anvers
+Equus caballus,27,Parc de Merlet
+Equus caballus,28,Zoo d'Anvers
+Panthera pardus,18,Parc Naturel de Bolivie
+Rangifer tarandus,25,Parc de Merlet
+Panthera leo,41,Zoo d'Anvers
+Pan troglodytes,34,Zoo d'Anvers
+Cervus canadensis,23,Pairi Daiza
+Lutra lutra,27,Parc Naturel de Bolivie
+Panthera tigris,17,Australia Natural Reserve
+Ailurus fulgens,35,Parc de Merlet
+Giraffa camelopardalis,31,Pairi Daiza
+Rangifer tarandus,28,Pairi Daiza
+Ardea cinerea,36,Australia Natural Reserve
+Ailurus fulgens,36,Institut Zoologique de Stockholm
+Aptenodytes forsteri,46,Parc National des Virunga
+Panthera leo,42,Réserve du Texas
+Ailurus fulgens,37,Australia Natural Reserve
+Cervus canadensis,30,Parc National des Virunga
+Pongo pygmaeus,37,Institut Zoologique de Stockholm
+Lynx rufus,24,Institut Zoologique de Stockholm
+Panthera uncia,37,Institut Zoologique de Stockholm
+Ursus maritimus,34,Réserve du Texas
+Canis lupus,28,Parc National des Virunga
+Bubo scandiacus,36,Zoo d'Anvers
