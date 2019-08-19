@@ -1,0 +1,3 @@
+CREATE TABLE Client(ID serial primary key, Name char(255), Surname char(255), Address char(255), Password char(255), Email char(255));
+CREATE TABLE Itinerary(ID int primary key, DatetimeStart timestamp, DatetimeStop timestamp, TravelingMean int, IDUser int, FOREIGN KEY (IDUser) REFERENCES Client(ID));
+CREATE TABLE Point(ID int primary key, Longitude float, Latitude float, TimeRecord time, Activity char(255), IDItinerary int, FOREIGN KEY (IDItinerary) REFERENCES Itinerary(ID));

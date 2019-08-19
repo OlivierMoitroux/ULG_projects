@@ -1,0 +1,14 @@
+INSERT INTO client (name, surname, homeaddress,workaddress, work, password, email, pseudo) values ('Houart', 'Robin', 'rue de l'Etuve 20 4000 Liege', 'Montefiore', 'Student', 'test', 'robin.houart@gmail.com', 'houro');
+
+
+INSERT INTO client (name, surname, address, password, email) values ('De Cooman', 'Julien', 'rue fonds de forêt 35, 4623 Magnée', 'test', 'decooman.julien@gmail.com');
+
+
+INSERT INTO client (name, surname, address, password, email) values ('Geortay', 'Cyril', 'rue des Longue Pièces 31, 4970 Francorchamps', 'test', 'c.geortay@gmail.com');
+
+
+INSERT INTO client (name, surname, address, password, email) values ('Seron', 'Damien', 'rue des Houblonnières 51, 4020 Liège', 'test', 'damienseron@hotmail.com');
+
+
+INSERT INTO client (name, surname, address, password, email) values ('Moitroux', 'Olivier', 'rue centenaire 34, 4452 Juprelle', 'test', 'olivier.montroux@hotmail.com');
+

@@ -1,23 +1,20 @@
-# List of projects.
+# ISP_Team3
+Integrated project
+
+/!\ The real git hosting this project is private. This is just a snapshot of
+ it.
+
+# Organization of the git
+
+* This branch contains everything related to the server. The ``Application`` folder contains the compiled version of the app.
+* The ``application branch`` contains the source code of the application (no dev tools available in settings of the app).
+* The ``application dev`` contains the source code of the application (dev tools available in settings of the app).
 
 
-Each branch hosts a project that I did up to now during my studies of computer engineering (focus on intelligent systems).
-*```````
-## Master 1
+# Submit
+Git sync with bitbucket the *9th of May* with everything *working*. Added *small patches* 12th of May. See Application folder for details.
 
-* *Integrated software project*:  ```isp```
-    * Agile development of a proof of concept for car sharing mobile app. We had to develop a solution so that the user don't need to enter manually all its habbits. Instead, we develop an independant app with some algorithms to analyse the habbits of the user in background so that it could send pre-processed data to our backend where we analyzed the travel data more in depth to extract relevant habbits of the user. These habbits are then displayed on the app thansk to a REST API.
-* *Compilers*: ```compilers```
-    * A compiler developped from scratch in C. Compiles code from vsopc to llvm. Use of byson and yacc.
+# Wants to try the app directly ?
+App available here: https://drive.google.com/open?id=1DQ3zBHsq454m7Hj7JcAZSEztpA7ft7Ia
 
-
-
-## Bachelor 3
-* TODO
-
-## Bachelor 2
-
-* TODO
-## Bachelor 1
-
-* TODO
+(You should enable external repositories in your Androïd settings).

@@ -1,0 +1,12 @@
+[{
+      "username": "Jean-Paul 2",
+      "password": "Notre_Dame_de_Paris",
+      "email": "jp2@vatican.it",
+      "homeAddress": "Hotel",
+      "homeZip": "4450",
+      "homeCountry": "Vatican",
+      "workAddress": "Eglise St-Machin",
+      "workZip": "5567",
+      "workCountry": "Italy",
+      "work": "Student"
+ }]

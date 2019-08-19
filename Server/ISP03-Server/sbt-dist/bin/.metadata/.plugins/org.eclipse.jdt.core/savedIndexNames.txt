@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+D:\Damien\Documents\Cours ulg\2018-2019\tests\play-java-starter-example\sbt-dist\bin\.metadata\.plugins\org.eclipse.jdt.core

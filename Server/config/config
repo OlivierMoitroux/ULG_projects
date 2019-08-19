@@ -1,0 +1,9 @@
+{"stayPointGeoRadius":100, "durationStayPoint":20,"distanceFilter":30.0,
+  "enableHeadless":false, "foregroundService": true, "stopOnTerminate":true,
+  "startOnBoot":true, "debug": true, "reset":true,
+  "forceReloadOnLocationChange":false, "allowIdenticalLocations":false,
+  "notificationChannelName": "Ma notification channel",
+  "notificationText": "",
+  "notificationTitle": "Covoit Uliege Dev App",
+  "notificationColor": "#0ef596", "stopTimeout":5, "maxRecordsToPersist":1
+, "persitMode":1, "connectivityChangeFlush":false, "disableElasticity":false}
