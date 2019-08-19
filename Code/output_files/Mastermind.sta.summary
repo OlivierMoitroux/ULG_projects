@@ -1,0 +1,29 @@
+------------------------------------------------------------
+TimeQuest Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Setup 'clk_Button'
+Slack : -19.466
+TNS   : -673.767
+
+Type  : Setup 'clk_Rand'
+Slack : -17.386
+TNS   : -92.953
+
+Type  : Hold 'clk_Button'
+Slack : 3.120
+TNS   : 0.000
+
+Type  : Hold 'clk_Rand'
+Slack : 4.200
+TNS   : 0.000
+
+Type  : Minimum Pulse Width 'clk_Button'
+Slack : -2.289
+TNS   : -2.289
+
+Type  : Minimum Pulse Width 'clk_Rand'
+Slack : -2.289
+TNS   : -2.289
+
+------------------------------------------------------------

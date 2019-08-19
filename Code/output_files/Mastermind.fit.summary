@@ -1,0 +1,11 @@
+Fitter Status : Successful - Sun May 21 13:03:58 2017
+Quartus Prime Version : 16.1.0 Build 196 10/24/2016 SJ Lite Edition
+Revision Name : Mastermind
+Top-level Entity Name : Mastermind
+Family : MAX V
+Device : 5M160ZE64C5
+Timing Models : Final
+Total logic elements : 132 / 160 ( 83 % )
+Total pins : 28 / 54 ( 52 % )
+Total virtual pins : 0
+UFM blocks : 0 / 1 ( 0 % )

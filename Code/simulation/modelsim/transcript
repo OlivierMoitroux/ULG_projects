@@ -1,0 +1,54 @@
+# Reading C:/Program Files/Quartus/modelsim_ase/tcl/vsim/pref.tcl
+# OpenFile {C:/Users/Philippe/Documents/ULg/Quadri 2/Digital electronics/Projects/Codes/simulation/modelsim/Mastermind_run_msim_rtl_vhdl.do}
+# could not find interpreter "ScintillaTk"
+vsim work.test_mastermind
+# vsim work.test_mastermind 
+# Start time: 12:29:17 on May 02,2017
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading ieee.std_logic_textio(body)
+# Loading ieee.std_logic_arith(body)
+# Loading ieee.std_logic_unsigned(body)
+# Loading work.test_mastermind(test_arch)
+# Loading work.mastermind(mastermind_arch)
+# Trace back: Error QStructure::sort: invalid command name ""
+#   <6:proc:11: ::QStructure::sort .main_pane.structure 0 ascending
+#   <5:eval:1: ::QStructure::structsort .main_pane.structure 0 ascending
+#   <4:eval:1: ::namespace inscope ::QStructure {structsort .main_pane.structure} 0 ascending
+#   >3:proc:26: ::.main_pane.structure.interior.cs.body.struct sort 0 ascending
+#   >2:proc:10: ::.main_pane.structure.interior.cs.body.struct _initializeSortColumn
+#   <1:eval:1: ::namespace inscope ::vsimwidgets::Hierarchy {::.main_pane.structure.interior.cs.body.struct _initializeSortColumn}
+add wave -position end  sim:/test_mastermind/clk_Button
+add wave -position end  sim:/test_mastermind/clk_Rand
+add wave -position end  sim:/test_mastermind/Button1
+add wave -position end  sim:/test_mastermind/Button2
+add wave -position end  sim:/test_mastermind/Button3
+add wave -position end  sim:/test_mastermind/Button4
+add wave -position end  sim:/test_mastermind/ButtonValidate
+add wave -position end  sim:/test_mastermind/ButtonRES
+add wave -position end  sim:/test_mastermind/RGB0_red
+add wave -position end  sim:/test_mastermind/RGB0_green
+add wave -position end  sim:/test_mastermind/RGB0_blue
+add wave -position end  sim:/test_mastermind/RGB1_red
+add wave -position end  sim:/test_mastermind/RGB1_green
+add wave -position end  sim:/test_mastermind/RGB1_blue
+add wave -position end  sim:/test_mastermind/RGB2_red
+add wave -position end  sim:/test_mastermind/RGB2_green
+add wave -position end  sim:/test_mastermind/RGB2_blue
+add wave -position end  sim:/test_mastermind/RGB3_red
+add wave -position end  sim:/test_mastermind/RGB3_green
+add wave -position end  sim:/test_mastermind/RGB3_blue
+add wave -position end  sim:/test_mastermind/Segment1a
+add wave -position end  sim:/test_mastermind/Segment1b
+add wave -position end  sim:/test_mastermind/Segment1c
+add wave -position end  sim:/test_mastermind/Segment1d
+add wave -position end  sim:/test_mastermind/Segment2a
+add wave -position end  sim:/test_mastermind/Segment2b
+add wave -position end  sim:/test_mastermind/Segment2c
+add wave -position end  sim:/test_mastermind/Segment2d
+add wave -position end  sim:/test_mastermind/fast_clk_cycle
+add wave -position end  sim:/test_mastermind/slow_clk_cycle
+run
+# End time: 12:30:27 on May 02,2017, Elapsed time: 0:01:10
+# Errors: 14, Warnings: 0

@@ -1,0 +1,48 @@
+
+State Machine - |Mastermind|RGB3_state
+Name RGB3_state.Blue RGB3_state.Green RGB3_state.Red 
+RGB3_state.Red 0 0 0 
+RGB3_state.Green 0 1 1 
+RGB3_state.Blue 1 0 1 
+
+State Machine - |Mastermind|RGB2_state
+Name RGB2_state.Blue RGB2_state.Green RGB2_state.Red 
+RGB2_state.Red 0 0 0 
+RGB2_state.Green 0 1 1 
+RGB2_state.Blue 1 0 1 
+
+State Machine - |Mastermind|RGB1_state
+Name RGB1_state.Blue RGB1_state.Green RGB1_state.Red 
+RGB1_state.Red 0 0 0 
+RGB1_state.Green 0 1 1 
+RGB1_state.Blue 1 0 1 
+
+State Machine - |Mastermind|RGB0_state
+Name RGB0_state.Blue RGB0_state.Green RGB0_state.Red 
+RGB0_state.Red 0 0 0 
+RGB0_state.Green 0 1 1 
+RGB0_state.Blue 1 0 1 
+
+State Machine - |Mastermind|SecretCode[3]
+Name SecretCode[3].Blue SecretCode[3].Green SecretCode[3].Red 
+SecretCode[3].Red 0 0 0 
+SecretCode[3].Green 0 1 1 
+SecretCode[3].Blue 1 0 1 
+
+State Machine - |Mastermind|SecretCode[2]
+Name SecretCode[2].Blue SecretCode[2].Green SecretCode[2].Red 
+SecretCode[2].Red 0 0 0 
+SecretCode[2].Green 0 1 1 
+SecretCode[2].Blue 1 0 1 
+
+State Machine - |Mastermind|SecretCode[1]
+Name SecretCode[1].Blue SecretCode[1].Green SecretCode[1].Red 
+SecretCode[1].Red 0 0 0 
+SecretCode[1].Green 0 1 1 
+SecretCode[1].Blue 1 0 1 
+
+State Machine - |Mastermind|SecretCode[0]
+Name SecretCode[0].Blue SecretCode[0].Green SecretCode[0].Red 
+SecretCode[0].Red 0 0 0 
+SecretCode[0].Green 0 1 1 
+SecretCode[0].Blue 1 0 1 
