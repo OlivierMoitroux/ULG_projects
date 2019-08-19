@@ -1,8 +1,7 @@
 # List of projects.
 
 
-Each branch hosts a project that I did up to now during my studies of computer engineering (focus on intelligent systems).
-*```````
+Each branch hosts a project that I did up to now during my studies of computer engineering (focus on intelligent systems). The description and listing is still TODO.
 ## Master 1
 
 * *Integrated software project*:  ```isp```
