@@ -1,0 +1,18 @@
+##############################
+#                            #
+#   File System Analysis	 #
+#                            #
+##############################
+
+Exercise 2
+** ANSWER HERE **
+
+Exercise 3
+Command : sudo fdisk -l
+
+We see that the end of the partition is at sector 131071 but the total number of sector is 132172 so there is something hidden at the end of partition.
+
+Command : dd if=evidence.img bs=512 skip=131072 of=file
+
+It extracts data which are after sector 131072 and store it into a file named "file"
+When we open it, we can see a picture of some people.
